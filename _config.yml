@@ -157,6 +157,10 @@ defaults:
     values:
       layout: single
       author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+
 
 
 #category_archive:

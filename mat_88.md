@@ -1,0 +1,32 @@
+---
+title: "Item - Materials - Certificate of Legend +3"
+permalink: /mat_88/
+excerpt: "Era of Chaos  Certificate of Legend +3"
+last_modified_at: 2021-04-12
+locale: en
+ref: "mat_88.md"
+toc: false
+classes: wide
+---
+ [Materials](/){: .btn .btn--primary}[Artifacts](/Artifacts/){: .btn .btn--success}[Units](/Units/){: .btn .btn--warning}[Heroes](/Heroes/){: .btn .btn--danger}[Consumables](/Consumables/){: .btn .btn--info}[Unknown](/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Rare materials to upgrade equipment from orange +3 to orange +4.
+
+ **Quality:** <span style="color: #FF8C00">OK</span>
+
+ **Type:** Material
+
+## Gather
+
+*    Guild Adventure 
+*    Chapter - The Road Home 
+*    Chapter - Independence 
+*    Chapter - Elemental Tide 
+*    Chapter - Land of Sleep 
+*    Chapter - Sound of Fate 
+
+## This item contains:
+
+  None
+

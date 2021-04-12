@@ -1,0 +1,30 @@
+---
+title: "Item - Materials - Soul Sulfur +3"
+permalink: /mat_85/
+excerpt: "Era of Chaos  Soul Sulfur +3"
+last_modified_at: 2021-04-12
+locale: en
+ref: "mat_85.md"
+toc: false
+classes: wide
+---
+ [Materials](/){: .btn .btn--primary}[Artifacts](/Artifacts/){: .btn .btn--success}[Units](/Units/){: .btn .btn--warning}[Heroes](/Heroes/){: .btn .btn--danger}[Consumables](/Consumables/){: .btn .btn--info}[Unknown](/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Common materials to upgrade equipment from orange +3 to orange +4.
+
+ **Quality:** <span style="color: #FF8C00">OK</span>
+
+ **Type:** Material
+
+## Gather
+
+*    Guild Adventure 
+*    [Chapter 24: Faerie Dragon -> 24-4](/Main Story/Chapter 24_4/) 
+*    [Chapter 24: Faerie Dragon -> 24-10](/Main Story/Chapter 24_10/) 
+*    [Chapter 24: Faerie Dragon -> 24-13](/Main Story/Chapter 24_13/) 
+
+## This item contains:
+
+  None
+

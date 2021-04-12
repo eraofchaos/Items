@@ -1,0 +1,31 @@
+---
+title: "Item - Materials - Certificate of Legend +1"
+permalink: /mat_74/
+excerpt: "Era of Chaos  Certificate of Legend +1"
+last_modified_at: 2021-04-12
+locale: en
+ref: "mat_74.md"
+toc: false
+classes: wide
+---
+ [Materials](/){: .btn .btn--primary}[Artifacts](/Artifacts/){: .btn .btn--success}[Units](/Units/){: .btn .btn--warning}[Heroes](/Heroes/){: .btn .btn--danger}[Consumables](/Consumables/){: .btn .btn--info}[Unknown](/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Rare materials to upgrade equipment from orange +1 to orange +2.
+
+ **Quality:** <span style="color: #FF8C00">OK</span>
+
+ **Type:** Material
+
+## Gather
+
+*    Guild Adventure 
+*    Chapter - Deal with the Devil 
+*    Chapter - Neutral Ground 
+*    Chapter - Tunnels and Troglodytes 
+*    Chapter - The Grail 
+
+## This item contains:
+
+  None
+

@@ -130,7 +130,7 @@ collections:
 defaults:
   # Items
   - scope:
-      path: "Items"
+      path: ""
       type: pages
     values:
       layout: single

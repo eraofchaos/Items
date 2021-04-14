@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Mercury"
 permalink: /mat_8/
 excerpt: "Era of Chaos  Common Mercury"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "mat_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Heroes"
 permalink: /Heroes/
 excerpt: "Heroes in Era of Chaos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Heroes.md"
 toc: false

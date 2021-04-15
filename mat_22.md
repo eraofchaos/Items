@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Sulfur +1"
 permalink: /mat_22/
 excerpt: "Era of Chaos  Superior Sulfur +1"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "mat_22.md"
 toc: false

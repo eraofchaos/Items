@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Sulfur +3"
 permalink: /mat_57/
 excerpt: "Era of Chaos  Legendary Sulfur +3"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "mat_57.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Ore"
 permalink: /mat_61/
 excerpt: "Era of Chaos  Mythical Ore"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "mat_61.md"
 toc: false

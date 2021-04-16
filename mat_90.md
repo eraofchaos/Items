@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Wood +4"
 permalink: /mat_90/
 excerpt: "Era of Chaos  Star Wood +4"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "mat_90.md"
 toc: false

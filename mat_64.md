@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Sulfur"
 permalink: /mat_64/
 excerpt: "Era of Chaos  Mythical Sulfur"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-17
 locale: en
 ref: "mat_64.md"
 toc: false

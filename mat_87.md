@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Crystal +3"
 permalink: /mat_87/
 excerpt: "Era of Chaos  Soul Crystal +3"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-17
 locale: en
 ref: "mat_87.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Mercury +1"
 permalink: /mat_42/
 excerpt: "Era of Chaos  Rare Mercury +1"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: en
 ref: "mat_42.md"
 toc: false

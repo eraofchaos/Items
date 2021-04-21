@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Ore +1"
 permalink: /mat_19/
 excerpt: "Era of Chaos  Superior Ore +1"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: en
 ref: "mat_19.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Ore"
 permalink: /mat_12/
 excerpt: "Era of Chaos  Good Ore"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: en
 ref: "mat_12.md"
 toc: false

@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adelaide Avatar](/images/h/h_Adelaide1.jpg) | [Adelaide Avatar](/Items/con_581/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Adelaide Avatar |
   | 2 | ![Ancient Sea Monster Concept Art Avatar](/images/u/ti_haiguai1.jpg) | [Ancient Sea Monster Concept Art Avatar](/Items/con_1103/){: .btn .btn--era5} | Hero Avatar | Use to receive the Ancient Sea Monster Special Effects Avatar. |
   | 3 | ![Ash Tyrant avatar](/images/h/h_Rashka3.jpg) | [Ash Tyrant avatar](/Items/con_568/){: .btn .btn--era5} | Hero Avatar | Use to receive Rashka's Ash Tyrant skin and avatar |

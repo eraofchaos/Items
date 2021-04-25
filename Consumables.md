@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![118 Diamond Pack](/images/t/i_tool_30272.png) | [118 Diamond Pack](/Items/con_736/){: .btn .btn--era3} | EXP | A package of 118 diamonds! |
   | 2 | ![198 Diamond Pack](/images/t/i_tool_30273.png) | [198 Diamond Pack](/Items/con_737/){: .btn .btn--era4} | EXP | A package of 198 diamonds! |
   | 3 | ![428 Diamond Pack](/images/t/i_tool_30274.png) | [428 Diamond Pack](/Items/con_738/){: .btn .btn--era4} | EXP | A treasure chest containing 428 diamonds! |

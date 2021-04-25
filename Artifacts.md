@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Description     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Name        |   Description     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Amulet of the Undertaker](/images/t/artifact_40321.png) | [Amulet of the Undertaker](/Items/art_129/){: .btn .btn--era4} | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. |
   | 2 | ![Angel Feather Arrows](/images/t/artifact_40102.png) | [Angel Feather Arrows](/Items/art_104/){: .btn .btn--era4} | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. |
   | 3 |  | [Ankh](/Items/art_184/){: .btn .btn--era5} | A cross that grants the wearer immortality. No one knows what happened to its previous owner. |

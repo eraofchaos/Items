@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/Items/her_359/){: .btn .btn--era5} | Hero Soul | Collect 30 tokens to summon Adelaide to join your party. Tokens are also required to increase her rank. |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/Items/her_388/){: .btn .btn--era5} | Hero Soul | Collect 30 tokens to summon Astral to join your party. Tokens are also required to increase his rank. |
   | 3 | ![Cassanbel](/images/h/h_Cassanbel.jpg) | [Cassanbel](/Items/her_396/){: .btn .btn--era5} | Hero Soul | Collect 30 tokens to summon Cassanbel to join your party. Tokens are also required to increase her rank. |

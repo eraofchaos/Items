@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![1 Fervor Potion](/images/t/i_907470.png) | [1 Fervor Potion](/Items/con_1847/){: .btn .btn--era4} | Gift | Grants 1 Fervor Potion and 400 diamonds. |
   | 2 | ![1 Ocean's Tear](/images/t/i_907466.png) | [1 Ocean's Tear](/Items/con_1845/){: .btn .btn--era4} | Gift | Grants 1 Ocean's Tears and 180 diamonds. |
   | 3 | ![1,200 Carrot Hot Cross Buns](/images/t/i_907588.png) | [1,200 Carrot Hot Cross Buns](/Items/con_2121/){: .btn .btn--era4} | Gift | 1,200 Carrot Hot Cross Buns diamonds and 600 diamonds. |

@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Ancient Behemoth Soul Stone](/images/u/tia_bimeng.jpg) | [Ancient Behemoth Soul Stone](/Items/unt_311/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Ancient Behemoth's Awakening level enhancement |
   | 2 | ![Arch Devil Soul Stone](/images/u/tia_daemo.jpg) | [Arch Devil Soul Stone](/Items/unt_318/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Arch Devil's Awakening level enhancement |
   | 3 | ![Arch Mage Soul Stone](/images/u/tia_dafashi.jpg) | [Arch Mage Soul Stone](/Items/unt_323/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Arch Mage's Awakening level enhancement |

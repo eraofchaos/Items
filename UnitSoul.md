@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Angel](/images/u/ti_datianshi.jpg) | [Angel](/Items/unt_196/){: .btn .btn--era5} | Unit Soul | Once you have gathered 80 soul tokens you can summon an Angel, an SSR aptitude unit. |
   | 2 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/Items/unt_271/){: .btn .btn--era5} | Unit Soul | Once you have gathered 80 tokens, you can summon an Assassin. Tokens can also be used to upgrade or increase the rank of Assassins. |
   | 3 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/Items/unt_256/){: .btn .btn--era4} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Basilisk. Tokens can also be used to upgrade or increase the rank of basilisks. |

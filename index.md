@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Description     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Name        |   Description     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Book of Arms](/images/t/i_cailiao_hexin1.png) | [Book of Arms](/Items/mat_18/){: .btn .btn--era3} | Rare materials to upgrade equipment from blue to blue +1. |
   | 2 | ![Book of Arms +1](/images/t/i_cailiao_hexin1.png) | [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3} | Rare materials to upgrade equipment from blue +1 to blue +2. |
   | 3 | ![Book of Arms +2](/images/t/i_cailiao_hexin1.png) | [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3} | Normal materials to upgrade equipment from blue +2 to purple. |

@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [Abyss of Flames](/Items/her_478/){: .btn .btn--era4} | Skill | Token used for composing Spell Book - Abyss of Flames |
   | 2 | ![Air Arrow](/images/t/ps_daqishenjian.png) | [Air Arrow](/Items/her_449/){: .btn .btn--era2} | Skill | Token used for composing Spell Book - Air Arrow |
   | 3 | ![Air Elemental](/images/t/ps_zhaohuanqiyuansu.png) | [Air Elemental](/Items/her_448/){: .btn .btn--era3} | Skill | Token used for composing Spell Book - Air Elemental |

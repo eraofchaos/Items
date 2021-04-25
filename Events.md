@@ -10,8 +10,8 @@ classes: wide
 ---
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Unit Soul](/Items/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/Items/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/Items/HeroSoul/){: .btn .btn--info}[Hero Skill](/Items/HeroSkill/){: .btn .btn--primary}[Gift](/Items/Gift/){: .btn .btn--success}[Event related](/Items/Events/){: .btn .btn--warning}[Avatars](/Items/Avatars/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [&](/Items/con_860/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
   | 2 | ![Adventure Manual](/images/t/i_10041.png) | [Adventure Manual](/Items/con_555/){: .btn .btn--era4} | Event related | Obtain by logging in, completing Activity missions, or through purchase. Can be used to access Treasure Hunt Prep. |
   | 3 | ![Alchemy Runestone](/images/t/i_3056.png) | [Alchemy Runestone](/Items/con_798/){: .btn .btn--era4} | Event related | A currency used for trading between high-ranked Mana Scholars. Can be exchanged for Tower Faction items in corresponding events. |

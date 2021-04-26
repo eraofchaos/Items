@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Event related.md"
 toc: false
@@ -76,7 +76,7 @@ classes: wide
   | 62 | ![Elf Mage Soul](/images/t/juexing_901.jpg) | [Elf Mage Soul](/Items/con_2073/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Sprite's Awakening. |
   | 63 | ![Elite Unit Soul](/images/t/i_10022.png) | [Elite Unit Soul](/Items/con_536/){: .btn .btn--era5} | Event related | Collect 80 to randomly get 80 elite unit tokens. (Elite unit: Druid, Nightmare, Lich, Mummy, Genie, Magic Airship, Manticore, Beholder, Medusa, Basilisk, Wyvern, Waspwort, Stone Elemental, Fire Elemental, Regnan Serpent, Mermaid and Revyaratan.) |
   | 64 | ![Energy Elemental's Soul](/images/t/juexing_904.png) | [Energy Elemental's Soul](/Items/con_2076/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Fire Elemental's Awakening |
-  | 65 |  | [Energy Scroll](/Items/con_830/){: .btn .btn--era4} | Event related | Used for improving battlefield skills and all skills of backup lineup |
+  | 65 | ![Energy Scroll](/images/t/i_backup_icon2.png) | [Energy Scroll](/Items/con_830/){: .btn .btn--era4} | Event related | Used for improving battlefield skills and all skills of backup lineup |
   | 66 | ![Evil Eye's Soul](/images/t/juexing_703.png) | [Evil Eye's Soul](/Items/con_2060/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Beholder's Awakening |
   | 67 | ![Evil Sigil](/images/t/i_3051.png) | [Evil Sigil](/Items/con_793/){: .btn .btn--era4} | Event related | A seal containing deadly powers. Can be exchanged for Necropolis Faction items in corresponding events. |
   | 68 | ![Expert Building Materials](/images/t/i_3062.png) | [Expert Building Materials](/Items/con_804/){: .btn .btn--era4} | Event related | Used for building walls during the Steadwick Defense Battle |
@@ -86,14 +86,14 @@ classes: wide
   | 72 | ![Fortress Roster runes](/images/t/i_tool_tujian14.png) | [Fortress Roster runes](/Items/con_818/){: .btn .btn--era3} | Event related | Important item for upgrading your Fortress Rosters |
   | 73 | ![Fresh Moss](/images/t/i_10018.png) | [Fresh Moss](/Items/con_532/){: .btn .btn--era4} | Event related | It's said that this is one of a reindeer's favorite foods. Bring it with you, and if you're lucky, you might meet a reindeer companion willing to follow you into battle. |
   | 74 | ![Fujian Zhangzhou Intestines with Pickled Vegetables](/images/t/i_81531331.png) | [Fujian Zhangzhou Intestines with Pickled Vegetables](/Items/con_1241/){: .btn .btn--era3} | Event related | Sweet and sour Luxi pickled vegetables, thick and fragrant boiled large intestines, fresh spring bamboo shoots, and delicious bone broth collide in this dish to create the unique taste of Zhangzhou. This particular pot of food still seems rather raw. |
-  | 75 |  | [GK of Angel Michael](/Items/con_516/){: .btn .btn--era5} | Event related | Congratulations! You got one GK of Angel Michael. We will send you the real item as soon as possible! |
-  | 76 |  | [GK of Duke Ivan](/Items/con_515/){: .btn .btn--era5} | Event related | Congratulations! You got one GK of Duke Ivan. We will send you the real item as soon as possible! |
+  | 75 | ![GK of Angel Michael](/images/t/i_10007.png) | [GK of Angel Michael](/Items/con_516/){: .btn .btn--era5} | Event related | Congratulations! You got one GK of Angel Michael. We will send you the real item as soon as possible! |
+  | 76 | ![GK of Duke Ivan](/images/t/i_10006.png) | [GK of Duke Ivan](/Items/con_515/){: .btn .btn--era5} | Event related | Congratulations! You got one GK of Duke Ivan. We will send you the real item as soon as possible! |
   | 77 | ![Ghost Dragon's Soul](/images/t/juexing_307.png) | [Ghost Dragon's Soul](/Items/con_2033/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Bone Dragon's Awakening |
   | 78 | ![Gingerbread Man](/images/t/i_690018.png) | [Gingerbread Man](/Items/con_1092/){: .btn .btn--era4} | Event related | A Jolly Christmas event item. Can be exchanged for Christmas presents. |
   | 79 | ![Glimmer Crystal](/images/t/i_3065.png) | [Glimmer Crystal](/Items/con_807/){: .btn .btn--era4} | Event related | A Crystal guarded by powerful dragons. Can be exchanged for the Dungeon Faction items in corresponding events! |
   | 80 | ![Glittering Pearl](/images/t/i_10013.png) | [Glittering Pearl](/Items/con_527/){: .btn .btn--era4} | Event related | Can be exchanged for rare unit soul stones. |
   | 81 | ![Gnoll Warrior Soul](/images/t/juexing_801.jpg) | [Gnoll Warrior Soul](/Items/con_2066/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Gnoll's Awakening. |
-  | 82 |  | [Gold Compass](/Items/con_815/){: .btn .btn--era4} | Event related | A gold compass to predict the future. Can be exchanged for Cove Faction items in corresponding events! |
+  | 82 | ![Gold Compass](/images/t/i_3073.png) | [Gold Compass](/Items/con_815/){: .btn .btn--era4} | Event related | A gold compass to predict the future. Can be exchanged for Cove Faction items in corresponding events! |
   | 83 | ![Gold Dragon's Soul](/images/t/juexing_207.png) | [Gold Dragon's Soul](/Items/con_2025/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Green Dragon's Awakening |
   | 84 | ![Gold Golem's Soul](/images/t/juexing_603.jpg) | [Gold Golem's Soul](/Items/con_2052/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Iron Golem's Awakening |
   | 85 | ![Gold Key](/images/t/i_tool_3041.png) | [Gold Key](/Items/con_783/){: .btn .btn--era5} | Event related | A credential for recruitment. You can recruit high-level units once for free when using it. |
@@ -152,7 +152,7 @@ classes: wide
   | 138 | ![Offensive Roster runes](/images/t/i_tool_tujian1.png) | [Offensive Roster runes](/Items/con_734/){: .btn .btn--era3} | Event related | Important item to increase your Offensive units' rankings. |
   | 139 | ![Offensive Talent Potion](/images/t/i_3044.png) | [Offensive Talent Potion](/Items/con_786/){: .btn .btn--era4} | Event related | This potion improves your Offensive units' attributes and upgrades their skills. |
   | 140 | ![Ogre Mage's Soul](/images/t/juexing_404.png) | [Ogre Mage's Soul](/Items/con_2038/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Ogre's Awakening |
-  | 141 |  | [Oracle Covenant](/Items/con_816/){: .btn .btn--era6} | Event related | A mysterious scroll left by the prophet, open it to summon unimaginable power. |
+  | 141 | ![Oracle Covenant](/images/t/i_3074.png) | [Oracle Covenant](/Items/con_816/){: .btn .btn--era6} | Event related | A mysterious scroll left by the prophet, open it to summon unimaginable power. |
   | 142 | ![Orc Commander Soul](/images/t/juexing_403.jpg) | [Orc Commander Soul](/Items/con_2037/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Orc's Awakening. |
   | 143 | ![Pestilential Serpent Fly Soul](/images/t/juexing_803.png) | [Pestilential Serpent Fly Soul](/Items/con_2067/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Serpent Fly's Awakening. |
   | 144 | ![Phoenix Soul](/images/t/juexing_907.jpg) | [Phoenix Soul](/Items/con_2078/){: .btn .btn--era5} | Event related | Immortal Hero Soul, can be used for Firebird's Awakening |
@@ -208,7 +208,7 @@ classes: wide
   | 194 | ![Thunderbird's Soul](/images/t/juexing_405.png) | [Thunderbird's Soul](/Items/con_2039/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Roc's Awakening |
   | 195 | ![Titan Soul](/images/t/juexing_607.jpg) | [Titan Soul](/Items/con_2056/){: .btn .btn--era5} | Event related | An ancient immortal hero soul. Can be used for Titan's Awakening. |
   | 196 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/Items/con_511/){: .btn .btn--era4} | Event related | Exclusive items from New Year event, can be exchanged for Rare items in corresponding events! |
-  | 197 |  | [Tool_10008](/Items/con_517/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
+  | 197 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/Items/con_517/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
   | 198 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/Items/con_518/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
   | 199 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/Items/con_524/){: .btn .btn--era4} | Event related |  |
   | 200 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/Items/con_525/){: .btn .btn--era4} | Event related |  |
@@ -240,7 +240,7 @@ classes: wide
   | 226 |  | [Upgrade Essence](/Items/con_696/){: .btn .btn--era3} | Event related | Pure magical essence. Use it to upgrade your units. |
   | 227 | ![Vampire Lord's Soul](/images/t/juexing_304.png) | [Vampire Lord's Soul](/Items/con_2030/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Vampire Lord's Awakening |
   | 228 | ![Vegetable Platter](/images/t/i_8150012.png) | [Vegetable Platter](/Items/con_1162/){: .btn .btn--era4} | Event related | A large platter filled with an assortment of vegetables. |
-  | 229 |  | [Void Mithril](/Items/con_817/){: .btn .btn--era4} | Event related | A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment. |
+  | 229 | ![Void Mithril](/images/t/i_3075.png) | [Void Mithril](/Items/con_817/){: .btn .btn--era4} | Event related | A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment. |
   | 230 | ![War Unicorn's Soul](/images/t/juexing_206.png) | [War Unicorn's Soul](/Items/con_2024/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Unicorn's Awakening |
   | 231 | ![Wolf Raider's Soul](/images/t/juexing_402.png) | [Wolf Raider's Soul](/Items/con_2036/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wolf Rider's Awakening |
   | 232 | ![Wooden Hammer](/images/t/i_10024.png) | [Wooden Hammer](/Items/con_538/){: .btn .btn--era4} | Event related | Used to open Easter Eggs. |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Gems +1"
 permalink: /mat_23/
 excerpt: "Era of Chaos  Superior Gems +1"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "mat_23.md"
 toc: false

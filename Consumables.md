@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Consumables.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![428 Diamond Pack](/images/t/i_tool_30274.png) | [428 Diamond Pack](/Items/con_738/){: .btn .btn--era4} | EXP | A treasure chest containing 428 diamonds! |
   | 4 | ![68 Diamond Pack](/images/t/i_tool_30271.png) | [68 Diamond Pack](/Items/con_735/){: .btn .btn--era2} | EXP | A package of 68 diamonds! |
   | 5 |  | [Activity value](/Items/con_901/){: .btn .btn--era4} | VIP related | You can increase your activity levels by completing Daily Missions. |
-  | 6 |  | [Alchemy Potion](/Items/con_932/){: .btn .btn--era5} | Other | Alchemy Potion, obtained by refining materials in the Alchemy Workshop |
+  | 6 | ![Alchemy Potion](/images/t/i_40020.png) | [Alchemy Potion](/Items/con_932/){: .btn .btn--era5} | Other | Alchemy Potion, obtained by refining materials in the Alchemy Workshop |
   | 7 | ![Amazonian: Kassandra](/images/h/h_kashandela1.jpg) | [Amazonian: Kassandra](/Items/con_1082/){: .btn .btn--era5} | Special Skin | Grants the Amazonian: Kassandra skin. |
   | 8 |  | [Arcane Chant Token](/Items/con_915/){: .btn .btn--era4} | Exclusive piece | An exclusive token from an ancient campaign that can be used for awakening the Caster unit's general exclusive potential - Arcane Chant |
   | 9 | ![Archmage Adelaide](/images/h/h_Adelaide4.jpg) | [Archmage Adelaide](/Items/con_1024/){: .btn .btn--era5} | Special Skin | Use to get a skin: Vori Archmage Adelaide |
@@ -70,7 +70,7 @@ classes: wide
   | 56 | ![Converted Saint - Monk Skin Avatar (2 days)](/images/u/ti_senglvshengdan.jpg) | [Converted Saint - Monk Skin Avatar (2 days)](/Items/con_1012/){: .btn .btn--era5} | Experience Card | Grants access to the Converted Saint - Monk Skin Avatar for 2 days. |
   | 57 | ![Converted Saint: Monk Skin](/images/u/ti_senglvshengdan.jpg) | [Converted Saint: Monk Skin](/Items/con_1972/){: .btn .btn--era5} | Unit Skin | Open for the Converted Saint: Monk skin. |
   | 58 | ![Critical hit skill essence](/images/t/i_7006.png) | [Critical hit skill essence](/Items/con_1115/){: .btn .btn--era4} | Skill Essence | Records the advanced secrets of battle. Can be used to improve units' critical hits. |
-  | 59 |  | [Cross-server Guild Coin](/Items/con_929/){: .btn .btn--era4} | Other | Obtained by challenging Cross-server Guild War |
+  | 59 | ![Cross-server Guild Coin](/images/t/i_40017.png) | [Cross-server Guild Coin](/Items/con_929/){: .btn .btn--era4} | Other | Obtained by challenging Cross-server Guild War |
   | 60 | ![Damage augmentation skill essence](/images/t/i_7008.png) | [Damage augmentation skill essence](/Items/con_1117/){: .btn .btn--era5} | Skill Essence | Records the expert secrets of battle. Can be used to improve units' damage augmentation. |
   | 61 | ![Damage reduction skill essence](/images/t/i_7007.png) | [Damage reduction skill essence](/Items/con_1116/){: .btn .btn--era5} | Skill Essence | Records the expert secrets of battle. Can be used to improve units' damage reduction. |
   | 62 | ![Dark Champion Skin - Azrael](/images/u/ti_sishenpifu2.jpg) | [Dark Champion Skin - Azrael](/Items/con_1985/){: .btn .btn--era5} | Unit Skin | Get Dark Champion Skin - Azrael after opening it |
@@ -106,7 +106,7 @@ classes: wide
   | 92 | ![Enchanted Dragon](/images/h/h_MutareDrake3.jpg) | [Enchanted Dragon](/Items/con_1073/){: .btn .btn--era5} | Special Skin | Use to get the skin: Enchanted Dragon Constellation - Dragon Mutare |
   | 93 | ![Endless Inferno Avatar Frame (7 days)](/images/a/avatarFrame_58.png) | [Endless Inferno Avatar Frame (7 days)](/Items/con_1009/){: .btn .btn--era5} | Experience Card | Grants access to the Endless Inferno Avatar Frame for 7 days. |
   | 94 | ![Energy](/images/t/i_104.png) | [Energy](/Items/con_900/){: .btn .btn--era4} | VIP related | Energy will be consumed when you play in story mode or Underground mode. |
-  | 95 |  | [Energy Core](/Items/con_931/){: .btn .btn--era5} | Battle Formation | Used for activating Battle Formation nodes |
+  | 95 | ![Energy Core](/images/t/i_40019.png) | [Energy Core](/Items/con_931/){: .btn .btn--era5} | Battle Formation | Used for activating Battle Formation nodes |
   | 96 |  | [Energy Core Special Skin](/Items/con_667/){: .btn .btn--era4} | Special Skin | Unlock the skin when Energy Core is awakened |
   | 97 |  | [Energy Core Token](/Items/con_999/){: .btn .btn--era4} | Exclusive piece | A Energy Core token from an ancient campaign that can be used for awakening Stone Elemental's general exclusive potential - Energy Core |
   | 98 | ![Erathia Mullich](/images/h/h_Mullich2.jpg) | [Erathia Mullich](/Items/con_1027/){: .btn .btn--era5} | Special Skin | Use to get a skin: Erathia Mullich |
@@ -136,7 +136,7 @@ classes: wide
   | 122 |  | [Gauze Token](/Items/con_981/){: .btn .btn--era4} | Exclusive piece | A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze. |
   | 123 | ![Gelu Spring Festival Celebrations](/images/h/h_Gelu7.jpg) | [Gelu Spring Festival Celebrations](/Items/con_1039/){: .btn .btn--era5} | Special Skin | Use to get a skin: Gelu Spring Festival Celebration |
   | 124 | ![Ghostly Return: Black Knight Skin](/images/u/ti_heianqishipifu.jpg) | [Ghostly Return: Black Knight Skin](/Items/con_1983/){: .btn .btn--era5} | Unit Skin | Grants the Ghostly Return: Black Knight skin. |
-  | 125 |  | [Glory Certificate](/Items/con_933/){: .btn .btn--era5} | Other | Glory Certificate, obtained from Glory Arena activity rewards and daily results |
+  | 125 | ![Glory Certificate](/images/t/i_40021.png) | [Glory Certificate](/Items/con_933/){: .btn .btn--era5} | Other | Glory Certificate, obtained from Glory Arena activity rewards and daily results |
   | 126 | ![Glory Coin](/images/t/i_40010.png) | [Glory Coin](/Items/con_922/){: .btn .btn--era4} | Other | Casted by the glorious light of the Kingdom. Can only be obtained by fighting in Kingdom Contest battles |
   | 127 | ![Gold](/images/t/i_103.png) | [Gold](/Items/con_899/){: .btn .btn--era9} | VIP related | Glittering gold can be used in many ways. |
   | 128 | ![Golden Armor: Angel Skin](/images/u/ti_datianshidiancangkapifu.jpg) | [Golden Armor: Angel Skin](/Items/con_1974/){: .btn .btn--era5} | Unit Skin | Grants the Gold Armor: Angel skin. |
@@ -144,17 +144,17 @@ classes: wide
   | 130 | ![Goodness-Cast Stone](/images/t/i_8002.png) | [Goodness-Cast Stone](/Items/con_1124/){: .btn .btn--era5} | Holy Emblems Cast Stone | Goodness-Cast Stone, a necessary item used for casting Goodness Holy Emblems |
   | 131 |  | [Gorgon's Horn Special Skin](/Items/con_663/){: .btn .btn--era5} | Special Skin | Unlock the skin when Gorgon's Horn is awakened. |
   | 132 |  | [Gorgon's Horn Token](/Items/con_995/){: .btn .btn--era5} | Exclusive piece | A Gorgon's Horn token from an ancient campaign that can be used for awakening Gorgon's exclusive potential, Gorgon's Horn. |
-  | 133 |  | [Gratitude bonus pack](/Items/con_2114/){: .btn .btn--era4} | Exclusive Token related | Use it to select 1 Universal Weapon Token |
+  | 133 | ![Gratitude bonus pack](/images/t/i_906044.png) | [Gratitude bonus pack](/Items/con_2114/){: .btn .btn--era4} | Exclusive Token related | Use it to select 1 Universal Weapon Token |
   | 134 |  | [Green Crystal](/Items/con_711/){: .btn .btn--era2} | Material | A mysterious runestone. Can improve your unit's skill insight a little. Provides 50 skill EXP when used. |
   | 135 | ![Guard of Light - Angel Skin](/images/u/ti_datianshipifu2.jpg) | [Guard of Light - Angel Skin](/Items/con_1973/){: .btn .btn--era5} | Unit Skin | Obtain Guard of Light - Angel Skin after opening |
   | 136 | ![Guardian of Vernin Ryland](/images/h/h_Ryland4.jpg) | [Guardian of Vernin Ryland](/Items/con_1045/){: .btn .btn--era5} | Special Skin | Use to get a skin: Guardian of Vernin Ryland |
-  | 137 |  | [Guild Fund](/Items/con_930/){: .btn .btn--era4} | Other | Obtained through donations. Can be used for City Bidding in the Cross-server Guild War |
+  | 137 | ![Guild Fund](/images/t/i_40018.png) | [Guild Fund](/Items/con_930/){: .btn .btn--era4} | Other | Obtained through donations. Can be used for City Bidding in the Cross-server Guild War |
   | 138 | ![Guild coin](/images/t/i_98.png) | [Guild coin](/Items/con_896/){: .btn .btn--era4} | VIP related | Can be exchanged for items in the Guild Store. |
   | 139 | ![Harvest Night Roland](/images/h/h_Roland5.jpg) | [Harvest Night Roland](/Items/con_1034/){: .btn .btn--era5} | Special Skin | Use to get a skin: Harvest Night Roland |
   | 140 | ![Heart-pounding Summer - Cassanbel](/images/h/h_Cassanbel5.jpg) | [Heart-pounding Summer - Cassanbel](/Items/con_1080/){: .btn .btn--era5} | Special Skin | Angel of Budding Love |
   | 141 | ![Heresy Apprentice Vidomina](/images/h/h_Vidomina3.jpg) | [Heresy Apprentice Vidomina](/Items/con_1052/){: .btn .btn--era5} | Special Skin | Use to get a skin: Heresy Apprentice Vidomina |
   | 142 | ![Hero King Avatar Frame (2 days)](/images/a/avatarFrame_49.png) | [Hero King Avatar Frame (2 days)](/Items/con_1010/){: .btn .btn--era5} | Experience Card | Grants access to the Hero King Avatar Frame for 2 days. |
-  | 143 |  | [Holy Crystal](/Items/con_927/){: .btn .btn--era5} | Other | A supernatural-condensed crystal that can be used to exchange for rare supplies in the Cross-server Store. Obtained in Cross-server Clash of Gods. |
+  | 143 | ![Holy Crystal](/images/t/i_godStone.png) | [Holy Crystal](/Items/con_927/){: .btn .btn--era5} | Other | A supernatural-condensed crystal that can be used to exchange for rare supplies in the Cross-server Store. Obtained in Cross-server Clash of Gods. |
   | 144 | ![Huge EXP potion](/images/t/i_503.png) | [Huge EXP potion](/Items/con_703/){: .btn .btn--era4} | EXP | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it. |
   | 145 |  | [Hydra's Head Token](/Items/con_997/){: .btn .btn--era5} | Exclusive piece | A Hydra's Head token from an ancient campaign that can be used for awakening Hydra's exclusive potential, Hydra's Head. |
   | 146 | ![Ice Crystal: Adelaide](/images/h/h_Adelaide3.jpg) | [Ice Crystal: Adelaide](/Items/con_1023/){: .btn .btn--era5} | Special Skin | Use to get Adelaide's Ice Crystal skin |
@@ -305,11 +305,11 @@ classes: wide
   | 291 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/Items/con_857/){: .btn .btn--era5} | Guild member gift |  |
   | 292 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/Items/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 293 |  | [Tool_40013](/Items/con_925/){: .btn .btn--era4} | Other |  |
-  | 294 |  | [Tool_40024](/Items/con_936/){: .btn .btn--era5} | Other |  |
-  | 295 |  | [Tool_40025](/Items/con_937/){: .btn .btn--era5} | Other |  |
-  | 296 |  | [Tool_40026](/Items/con_938/){: .btn .btn--era5} | Other |  |
-  | 297 |  | [Tool_40027](/Items/con_939/){: .btn .btn--era5} | Other |  |
-  | 298 |  | [Tool_40028](/Items/con_940/){: .btn .btn--era5} | Other |  |
+  | 294 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/Items/con_936/){: .btn .btn--era5} | Other |  |
+  | 295 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/Items/con_937/){: .btn .btn--era5} | Other |  |
+  | 296 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/Items/con_938/){: .btn .btn--era5} | Other |  |
+  | 297 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/Items/con_939/){: .btn .btn--era5} | Other |  |
+  | 298 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/Items/con_940/){: .btn .btn--era5} | Other |  |
   | 299 |  | [Tool_499035](/Items/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
   | 300 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/Items/con_1047/){: .btn .btn--era5} | Special Skin |  |
   | 301 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/Items/con_1062/){: .btn .btn--era5} | Special Skin |  |

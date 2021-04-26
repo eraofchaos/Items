@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Gift.md"
 toc: false
@@ -51,7 +51,7 @@ classes: wide
   | 37 | ![Arcane Sacred Scar Chest](/images/t/i_907023.png) | [Arcane Sacred Scar Chest](/Items/con_1455/){: .btn .btn--era5} | Gift | A treasure chest sealed with raging, enchanted energy, only the lords having Naga can open it. |
   | 38 | ![Armageddon's Blade Offer](/images/t/i_907125.png) | [Armageddon's Blade Offer](/Items/con_1905/){: .btn .btn--era5} | Gift | Grants 1 Doomsday Component Chest and 3,880 diamonds. |
   | 39 | ![Armageddon's Blade Special Offer](/images/t/i_907125.png) | [Armageddon's Blade Special Offer](/Items/con_1837/){: .btn .btn--era5} | Gift | Grants 1 Doomsday Component Chest and 6,480 diamonds. |
-  | 40 |  | [Army Supply](/Items/con_1083/){: .btn .btn--era5} | Gift | A reward from Xeron for the Roland's Capture event. You can get random valuable resources from it. |
+  | 40 | ![Army Supply](/images/t/i_907132.png) | [Army Supply](/Items/con_1083/){: .btn .btn--era5} | Gift | A reward from Xeron for the Roland's Capture event. You can get random valuable resources from it. |
   | 41 | ![Artifact Card](/images/t/i_907494.png) | [Artifact Card](/Items/con_1913/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 2 Astro Silver, 100 Heaven-Cast Stones, and 80 diamonds. |
   | 42 | ![Artifact Essence](/images/t/i_99.png) | [Artifact Essence](/Items/con_761/){: .btn .btn--era4} | Gift | Use it to receive 1 Artifact Essence, which can be exchanged for various rare items. |
   | 43 | ![Artifact Essence Gift Box](/images/t/i_99.png) | [Artifact Essence Gift Box](/Items/con_764/){: .btn .btn--era4} | Gift | Grants 1 artifact essence. |
@@ -92,7 +92,7 @@ classes: wide
   | 78 | ![Christmas Elf Dragon Mutare Offer](/images/t/i_907154.png) | [Christmas Elf Dragon Mutare Offer](/Items/con_1889/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds, 1 Christmas Elf Dragon Mutare skin, 40 Dragon Mutare Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 79 | ![Christmas Elf Limited-Time Special Offer](/images/t/i_907153.png) | [Christmas Elf Limited-Time Special Offer](/Items/con_1888/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Christmas Elf Dragon Mutare skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 80 | ![Chronicles Chest](/images/t/i_907245.png) | [Chronicles Chest](/Items/con_1071/){: .btn .btn--era5} | Gift | You can select one from the SR+ Soul Stones after opening. |
-  | 81 |  | [Ciele Special Offer Pack](/Items/con_1514/){: .btn .btn--era4} | Gift | Use it to get Diamond *6480, Ciele Token *55, Spell Scroll *288 and Temple Scroll *10 |
+  | 81 | ![Ciele Special Offer Pack](/images/t/i_907128.png) | [Ciele Special Offer Pack](/Items/con_1514/){: .btn .btn--era4} | Gift | Use it to get Diamond *6480, Ciele Token *55, Spell Scroll *288 and Temple Scroll *10 |
   | 82 | ![Cloak of the Undead King Set Pack](/images/t/i_907543.png) | [Cloak of the Undead King Set Pack](/Items/con_1920/){: .btn .btn--era4} | Gift | Grants 1 Amulet of the Undertaker, 1 Vampire's Cowl, 1 Dead Man's Boots, and 880 diamonds. |
   | 83 | ![Collector - Advanced](/images/a/avatarFrame_72.png) | [Collector - Advanced](/Items/con_1108/){: .btn .btn--era5} | Gift | Collector - Advanced |
   | 84 | ![Collector - Basic](/images/a/avatarFrame_71.png) | [Collector - Basic](/Items/con_1107/){: .btn .btn--era5} | Gift | Collector - Basic |
@@ -105,8 +105,8 @@ classes: wide
   | 91 | ![Cove Daily Special Offer Pack B](/images/t/i_907220.png) | [Cove Daily Special Offer Pack B](/Items/con_1945/){: .btn .btn--era4} | Gift | Grants 60 diamonds, 10 Cove Faction Chests, and 50,000 gold. |
   | 92 | ![Cove Daily Special Offer Pack C](/images/t/i_907221.png) | [Cove Daily Special Offer Pack C](/Items/con_1946/){: .btn .btn--era4} | Gift | Grants 300 diamonds, 1 gold key, 20 Cove Faction Chests, and 2 large energy potions. |
   | 93 | ![Cove Daily Special Offer Pack D](/images/t/i_907236.png) | [Cove Daily Special Offer Pack D](/Items/con_1947/){: .btn .btn--era4} | Gift | Grants 5 gold keys, 20 Cove Faction Selection Chests, 300,000 gold, and 5 large energy potions. |
-  | 94 |  | [Cove Faction Chest](/Items/con_1278/){: .btn .btn--era4} | Gift | Randomly grants 1 Sea Elemental or Regnan Pirate token. |
-  | 95 |  | [Cove Faction Selection Chest](/Items/con_1948/){: .btn .btn--era4} | Gift | Use to select 1 Sea Elemental or Regnan Pirate token. |
+  | 94 | ![Cove Faction Chest](/images/t/i_904010.png) | [Cove Faction Chest](/Items/con_1278/){: .btn .btn--era4} | Gift | Randomly grants 1 Sea Elemental or Regnan Pirate token. |
+  | 95 | ![Cove Faction Selection Chest](/images/t/i_904010.png) | [Cove Faction Selection Chest](/Items/con_1948/){: .btn .btn--era4} | Gift | Use to select 1 Sea Elemental or Regnan Pirate token. |
   | 96 | ![Cove Limited Edition Pack](/images/t/i_994010.png) | [Cove Limited Edition Pack](/Items/con_2112/){: .btn .btn--era5} | Gift | Choose to get 1 Cove SSR token. |
   | 97 | ![Cursed armour pack](/images/t/i_907167.png) | [Cursed armour pack](/Items/con_1554/){: .btn .btn--era4} | Gift | Get black magic sword x1, specter shield x1, bone breastplate x1, skeleton crown x1. Activates artifact \"cursed armor\". |
   | 98 | ![Daily Special Offer Pack A](/images/t/i_907219.png) | [Daily Special Offer Pack A](/Items/con_1668/){: .btn .btn--era4} | Gift | Grants 2 Tower Faction Chests and 20 diamonds. |
@@ -162,7 +162,7 @@ classes: wide
   | 148 | ![Elite Unit Selection Pack](/images/t/i_907375.png) | [Elite Unit Selection Pack](/Items/con_1318/){: .btn .btn--era4} | Gift | Use to select 1 of the following units: Genie, Magic Airship, Lich, Basilisk, Mummy, Medusa, Nightmare, Druid, Wyvern, Stone Elemental, Beholder, Manticore, Fire Elemental, Mermaid, Regnan Serpent, or Revyaratan. |
   | 149 | ![Elite Unit Special Offer](/images/t/i_907116.png) | [Elite Unit Special Offer](/Items/con_1515/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
   | 150 | ![Elite Unit Token Selection Pack](/images/t/i_907239.png) | [Elite Unit Token Selection Pack](/Items/con_1623/){: .btn .btn--era4} | Gift | Use to select 1 Mummy, Genie, Stone Elemental, or Lich token. |
-  | 151 |  | [Enchanted Dragon Skin Special Offer](/Items/con_1518/){: .btn .btn--era4} | Gift | Use it to get Enchanted Dragon Skin *1 and Diamond *1980 |
+  | 151 | ![Enchanted Dragon Skin Special Offer](/images/t/i_907132.png) | [Enchanted Dragon Skin Special Offer](/Items/con_1518/){: .btn .btn--era4} | Gift | Use it to get Enchanted Dragon Skin *1 and Diamond *1980 |
   | 152 | ![Enchanted rune treasure chest](/images/t/i_907023.png) | [Enchanted rune treasure chest](/Items/con_1409/){: .btn .btn--era5} | Gift | A treasure chest sealed with raging, enchanted energy that can only be opened by the Lord of Naga. |
   | 153 | ![Energy Card](/images/t/i_907316.png) | [Energy Card](/Items/con_1907/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 60 Energy, 60 Movement, and 30 diamonds. |
   | 154 | ![Energy Pack](/images/t/i_907308.png) | [Energy Pack](/Items/con_1692/){: .btn .btn--era4} | Gift | Grants 60 diamonds and 1 large energy potion. |
@@ -222,7 +222,7 @@ classes: wide
   | 208 | ![Gold Key Pack E](/images/t/i_907187.png) | [Gold Key Pack E](/Items/con_1571/){: .btn .btn--era5} | Gift | 20 Gold Keys and 3,380 Diamonds |
   | 209 | ![Golden Chest](/images/t/i_50003.png) | [Golden Chest](/Items/con_966/){: .btn .btn--era4} | Gift | A Golden Chest obtained from Archery Master. Get either an Unit Token or 5000 unit EXP at random after opening it |
   | 210 | ![Gratitude bonus pack](/images/t/i_906011.png) | [Gratitude bonus pack](/Items/con_2113/){: .btn .btn--era4} | Gift | Thank you for your support of Heroes of Might and Magic! |
-  | 211 |  | [Greedy Heart Chest](/Items/con_1519/){: .btn .btn--era5} | Gift | A treasure chest cursed by tide power, only the lords having Regnan Archer can open it |
+  | 211 | ![Greedy Heart Chest](/images/t/i_907133.png) | [Greedy Heart Chest](/Items/con_1519/){: .btn .btn--era5} | Gift | A treasure chest cursed by tide power, only the lords having Regnan Archer can open it |
   | 212 | ![Green Material Chest](/images/t/i_304002.png) | [Green Material Chest](/Items/con_1255/){: .btn .btn--era2} | Gift | Receive a random green equipment-upgrading item. |
   | 213 | ![Growth Card](/images/t/i_907318.png) | [Growth Card](/Items/con_1911/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 300 Dragonsteel, 300 Shadowsteel, 300 Starsilver, and 60 diamonds. |
   | 214 | ![Halloween Special Offer Pack](/images/t/i_907033.png) | [Halloween Special Offer Pack](/Items/con_1419/){: .btn .btn--era4} | Gift | Includes Diamond *980, Candy Witch Skin *1 and Skeleton Soul Stone *20 |
@@ -245,7 +245,7 @@ classes: wide
   | 231 | ![Hero Novice Pack](/images/t/i_907074.png) | [Hero Novice Pack](/Items/con_1460/){: .btn .btn--era4} | Gift | Use it to select 1 from the following: Crag Hack, Vidomina, Adelaide, Solmyr, Zydar, Monere, Kendal, Sephinroth, Mutare and Jeddite token*1 |
   | 232 | ![Hero Support Pack](/images/t/i_907289.png) | [Hero Support Pack](/Items/con_1690/){: .btn .btn--era4} | Gift | Use to select 1 Roland, Sandro, or Kilgor token. |
   | 233 | ![Hero Thanksgiving Pack](/images/t/i_907038.png) | [Hero Thanksgiving Pack](/Items/con_1424/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Crag Hack, Vidomina, Adelaide, Solmyr, Zydar, Monere or Kendal token *1 |
-  | 234 |  | [Hero Training Pack](/Items/con_505/){: .btn .btn--era4} | Gift | Get universal hero token x20, shrine scroll x10, spell scroll x600. |
+  | 234 | ![Hero Training Pack](/images/t/i_907128.png) | [Hero Training Pack](/Items/con_505/){: .btn .btn--era4} | Gift | Get universal hero token x20, shrine scroll x10, spell scroll x600. |
   | 235 | ![Hero Training Special Offer](/images/t/i_907346.png) | [Hero Training Special Offer](/Items/con_1730/){: .btn .btn--era4} | Gift | Grants 5 universal tokens, 10 Ancient Temple Scrolls, and 200 Spell Scrolls. |
   | 236 | ![Holiday Hero Offer](/images/t/i_907323.png) | [Holiday Hero Offer](/Items/con_1891/){: .btn .btn--era5} | Gift | Grants 12,960 diamonds, 1 Elite Hero Pack, 300 Spell Scrolls, and 10 Ancient Temple Scrolls. |
   | 237 | ![Holiday Hero Premium Pack](/images/t/i_907323.png) | [Holiday Hero Premium Pack](/Items/con_1707/){: .btn .btn--era4} | Gift | Grants 12,960 diamonds, 1 Elite Hero Pack, 300 Spell Scrolls, and 10 Shrine Scrolls. (Elite Hero Pack: Use to select 1 of the following: 40 Roland tokens, 40 Kilgor tokens, 40 Sandro tokens, 40 Astral tokens, or 40 Dragon Mutare tokens.) |
@@ -357,7 +357,7 @@ classes: wide
   | 343 | ![Lv. 50 Joyful Growth Pack](/images/t/i_907219.png) | [Lv. 50 Joyful Growth Pack](/Items/con_1770/){: .btn .btn--era4} | Gift | Grants 80 SSR Unit Souls and 5 Green Crystals (Runestone). |
   | 344 | ![Lv. 50 Premium Growth Pack](/images/t/i_907221.png) | [Lv. 50 Premium Growth Pack](/Items/con_1788/){: .btn .btn--era4} | Gift | Grants 80 SSR Unit Souls and 5 Purple Crystals (Runestone). |
   | 345 | ![Lv. 50 VIP Growth Pack](/images/t/i_907220.png) | [Lv. 50 VIP Growth Pack](/Items/con_1779/){: .btn .btn--era4} | Gift | Grants 80 SSR Unit Souls and 5 Blue Crystals (Runestone). |
-  | 346 |  | [Magic Beast Chest](/Items/con_1521/){: .btn .btn--era6} | Gift | A treasure chest made by a casting master, only the lords having Dragon Golem can open it |
+  | 346 | ![Magic Beast Chest](/images/t/i_907135.png) | [Magic Beast Chest](/Items/con_1521/){: .btn .btn--era6} | Gift | A treasure chest made by a casting master, only the lords having Dragon Golem can open it |
   | 347 | ![Magician Astral Offer](/images/t/i_907547.png) | [Magician Astral Offer](/Items/con_1924/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds, 1 Magician Astral skin, 40 Astral Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 348 | ![Magician Limited-Time Special Offer](/images/t/i_907546.png) | [Magician Limited-Time Special Offer](/Items/con_1923/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Magician Astral skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 349 | ![Mana Chest](/images/t/i_906012.png) | [Mana Chest](/Items/con_1335/){: .btn .btn--era4} | Gift | Use it to receive Charm of Mana, Talisman of Mana and Mystic Orb of Mana. |
@@ -375,7 +375,7 @@ classes: wide
   | 361 | ![Multi-choice Cast Stone Pack](/images/t/i_907094.png) | [Multi-choice Cast Stone Pack](/Items/con_1480/){: .btn .btn--era4} | Gift | Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1 |
   | 362 | ![Multi-choice Elite Special Offer](/images/t/i_907066.png) | [Multi-choice Elite Special Offer](/Items/con_1452/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: 3-Star Lich, Mummy, Genie, Beholder, Medusa and Stone Elemental *2 |
   | 363 | ![Mysterious Premium Artifact Component Chest](/images/t/i_907551.png) | [Mysterious Premium Artifact Component Chest](/Items/con_1928/){: .btn .btn--era5} | Gift | Randomly grants 1 of the following: 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heaven Component Chest, 1 Piece of Eden Component Chest, or 1 Doomsday Component Chest. |
-  | 364 |  | [Naga Sword Chest](/Items/con_1520/){: .btn .btn--era5} | Gift | Use it to get random Naga Sword Weapon Token *1 or Naga Sword Weapon Token *2 |
+  | 364 | ![Naga Sword Chest](/images/t/i_907134.png) | [Naga Sword Chest](/Items/con_1520/){: .btn .btn--era5} | Gift | Use it to get random Naga Sword Weapon Token *1 or Naga Sword Weapon Token *2 |
   | 365 | ![Necropolis Elite Pack](/images/t/i_907066.png) | [Necropolis Elite Pack](/Items/con_1471/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Lich Token *40 or Mummy Token *40 |
   | 366 | ![Necropolis Faction Selection Chest](/images/t/i_907282.png) | [Necropolis Faction Selection Chest](/Items/con_1683/){: .btn .btn--era4} | Gift | Use to select 1 Skeleton, Walking Dead, Wight, or Vampire token. |
   | 367 | ![Necropolis Limited Edition Pack](/images/t/i_994003.png) | [Necropolis Limited Edition Pack](/Items/con_2138/){: .btn .btn--era5} | Gift | Choose to get either 1 Necropolis SSR token or 1 Necropolis SSR Soul Stone. |
@@ -479,7 +479,7 @@ classes: wide
   | 465 | ![Revelations: Ezio Special Offer](/images/t/i_907438.png) | [Revelations: Ezio Special Offer](/Items/con_1816/){: .btn .btn--era4} | Gift | Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls. |
   | 466 | ![Revenge Component Chest](/images/t/i_906064.png) | [Revenge Component Chest](/Items/con_1386/){: .btn .btn--era4} | Gift | A Mirror of Revenge component chest. Use it to select 1 of the components of the Mirror of Revenge artifact. |
   | 467 | ![Rice Dumpling Variety Gift Box](/images/t/i_907330.png) | [Rice Dumpling Variety Gift Box](/Items/con_1714/){: .btn .btn--era4} | Gift | Grants 2 Pork Rice Dumplings, 2 Egg Yolk Rice Dumplings, 2 Jujube Rice Dumplings, and 2 Red Bean Rice Dumplings. |
-  | 468 |  | [Righteous Justice Chest](/Items/con_1517/){: .btn .btn--era6} | Gift | A treasure chest sealed with holy power, only the lords having Judicator can open it |
+  | 468 | ![Righteous Justice Chest](/images/t/i_907131.png) | [Righteous Justice Chest](/Items/con_1517/){: .btn .btn--era6} | Gift | A treasure chest sealed with holy power, only the lords having Judicator can open it |
   | 469 | ![Rock-paper-scissors Card x1](/images/t/i_907422.png) | [Rock-paper-scissors Card x1](/Items/con_1800/){: .btn .btn--era4} | Gift | Grants 1 Rock-paper-scissors Card and 60 diamonds. |
   | 470 | ![Rock-paper-scissors Card x15](/images/t/i_907422.png) | [Rock-paper-scissors Card x15](/Items/con_1803/){: .btn .btn--era4} | Gift | Grants 15 Rock-paper-scissors Cards and 1,980 diamonds. |
   | 471 | ![Rock-paper-scissors Card x2](/images/t/i_907422.png) | [Rock-paper-scissors Card x2](/Items/con_1801/){: .btn .btn--era4} | Gift | Grants 2 Rock-paper-scissors Cards and 250 diamonds. |
@@ -630,7 +630,7 @@ classes: wide
   | 616 | ![Ultimate Champion Chest](/images/t/i_907027.png) | [Ultimate Champion Chest](/Items/con_1463/){: .btn .btn--era5} | Gift | A treasure chest sealed with the will of ancient beast, only the lords having Behemoth can open it. |
   | 617 | ![Unit Skill Enhancement Pack](/images/t/i_907541.png) | [Unit Skill Enhancement Pack](/Items/con_1918/){: .btn .btn--era4} | Gift | Grants 100 Blue Crystals (Runestone), 5 Huge EXP Potions, 10 Vampire tokens, and 680 diamonds. |
   | 618 | ![Unit Talent Enhancement pack](/images/t/i_907542.png) | [Unit Talent Enhancement pack](/Items/con_1919/){: .btn .btn--era4} | Gift | Grants 200 Charging Talent Potions, 10 Vampire tokens, 30,000 coins, 1 Skeleton Crown, and 500 diamonds. |
-  | 619 |  | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
+  | 619 | ![Unit Training Pack](/images/t/i_907128.png) | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
   | 620 | ![Universal Half Price Pack](/images/t/i_907194.png) | [Universal Half Price Pack](/Items/con_1753/){: .btn .btn--era4} | Gift | Use it to receive 12,960 diamonds, 80 Universal Tokens  |
   | 621 | ![Universal Hero Token Special Offer](/images/t/i_907445.png) | [Universal Hero Token Special Offer](/Items/con_1823/){: .btn .btn--era4} | Gift | Grants 10 Universal Hero Tokens and 1,280 diamonds. |
   | 622 | ![Universal Talent Supply Pack](/images/t/i_907032.png) | [Universal Talent Supply Pack](/Items/con_1418/){: .btn .btn--era4} | Gift | Use it to select 1 from Offensive, Defensive, Charging, Ranged, Caster Talent Potion *100 |
@@ -664,6 +664,6 @@ classes: wide
   | 650 | ![Vidomina Pack](/images/t/i_907175.png) | [Vidomina Pack](/Items/con_1561/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
   | 651 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
   | 652 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_601/){: .btn .btn--era5} | Gift | Open it to receive a Warrior avatar frame! |
-  | 653 |  | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
+  | 653 | ![Weapons Token Chest](/images/t/i_906044.png) | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
   | 654 | ![White Material Chest](/images/t/i_304002.png) | [White Material Chest](/Items/con_1254/){: .btn .btn--era1} | Gift | Receive a random white equipment-upgrading item. |
   | 655 | ![Wrapped Rice Dumpling](/images/t/i_907099.png) | [Wrapped Rice Dumpling](/Items/con_1485/){: .btn .btn--era4} | Gift |  |

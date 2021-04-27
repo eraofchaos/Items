@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Unit Awakening.md"
 toc: false
@@ -78,7 +78,7 @@ classes: wide
   | 64 | ![Tool_949904](/images/u/tia_yurenyongshi.jpg) | [Tool_949904](/Items/unt_352/){: .btn .btn--era5} | Awakening Soul |  |
   | 65 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/Items/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 66 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/Items/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
-  | 67 | ![Tool_949908](/images/u/tia_haiguai.jpg) | [Tool_949908](/Items/unt_355/){: .btn .btn--era5} | Awakening Soul |  |
+  | 67 | ![Tool_949908](/images/u/tia_haiguai.jpg) | [Tool_949908](/Items/unt_355/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Ancient Sea Monster's Awakening level enhancement |
   | 68 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/Items/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
   | 69 | ![Vampire Lord Soul Stone](/images/u/tia_xixuegui.jpg) | [Vampire Lord Soul Stone](/Items/unt_300/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Vampire Lord's Awakening level enhancement |
   | 70 | ![War Unicorn Soul Stone](/images/u/tia_dujiaoshou.jpg) | [War Unicorn Soul Stone](/Items/unt_294/){: .btn .btn--era5} | Awakening Soul | Soul Stone for War Unicorn's Awakening level enhancement |

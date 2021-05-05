@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Sulfur +2"
 permalink: /mat_50/
 excerpt: "Era of Chaos  Epic Sulfur +2"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "mat_50.md"
 toc: false

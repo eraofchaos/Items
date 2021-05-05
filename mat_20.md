@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Wood +1"
 permalink: /mat_20/
 excerpt: "Era of Chaos  Superior Wood +1"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "mat_20.md"
 toc: false

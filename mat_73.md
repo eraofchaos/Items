@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Crystal +1"
 permalink: /mat_73/
 excerpt: "Era of Chaos  Eternal Crystal +1"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "mat_73.md"
 toc: false

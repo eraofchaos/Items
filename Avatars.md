@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Avatars.md"
 toc: false
@@ -94,9 +94,10 @@ classes: wide
   | 80 | ![Tower avatar frame gift pack](/images/t/i_907003.png) | [Tower avatar frame gift pack](/Items/con_606/){: .btn .btn--era5} | Avatar frame | Open it to receive a Tower avatar frame! |
   | 81 | ![Treasure Collector avatar frame gift pack](/images/t/i_907003.png) | [Treasure Collector avatar frame gift pack](/Items/con_620/){: .btn .btn--era5} | Avatar frame | Open it to receive a Treasure Collector avatar frame! |
   | 82 | ![Troll Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll Avatar](/Items/con_598/){: .btn .btn--era5} | Hero Avatar | Use to get the Troll avatar. |
-  | 83 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Avatar frame | Open it to receive a Warrior avatar frame! |
-  | 84 | ![White Christmas Avatar Frame Pack](/images/a/avatarFrame_48.png) | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 85 | ![Wings of Triumph: Catherine Avatar](/images/h/h_Catherine9.jpg) | [Wings of Triumph: Catherine Avatar](/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 86 | ![Wings of Triumph: Gelu](/images/h/h_Gelu8.jpg) | [Wings of Triumph: Gelu](/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
-  | 87 | ![Wystan Avatar](/images/h/h_Wystan1.jpg) | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
-  | 88 | ![Yog avatar](/images/h/h_Yog1.jpg) | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |
+  | 83 |  | [Venom Spawn Avatar](/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | Use to receive the Venom Spawn avatar. |
+  | 84 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Avatar frame | Open it to receive a Warrior avatar frame! |
+  | 85 | ![White Christmas Avatar Frame Pack](/images/a/avatarFrame_48.png) | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 86 | ![Wings of Triumph: Catherine Avatar](/images/h/h_Catherine9.jpg) | [Wings of Triumph: Catherine Avatar](/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
+  | 87 | ![Wings of Triumph: Gelu](/images/h/h_Gelu8.jpg) | [Wings of Triumph: Gelu](/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
+  | 88 | ![Wystan Avatar](/images/h/h_Wystan1.jpg) | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
+  | 89 | ![Yog avatar](/images/h/h_Yog1.jpg) | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |

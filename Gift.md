@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Gift.md"
 toc: false
@@ -100,7 +100,7 @@ classes: wide
   | 86 | ![Collector - Advanced](/images/a/avatarFrame_72.png) | [Collector - Advanced](/Items/con_1108/){: .btn .btn--era5} | Gift | Collector - Advanced |
   | 87 | ![Collector - Basic](/images/a/avatarFrame_71.png) | [Collector - Basic](/Items/con_1107/){: .btn .btn--era5} | Gift | Collector - Basic |
   | 88 | ![Collector - Expert](/images/a/avatarFrame_59.png) | [Collector - Expert](/Items/con_1109/){: .btn .btn--era5} | Gift | Collector - Expert |
-  | 89 |  | [Commander Avatar Selection Pack](/Items/con_2137/){: .btn .btn--era5} | Gift | Use to unlock 1 of the following: Regnan Seer Avatar, Evil Sorceress Avatar, Ice Demon Avatar, Troll Avatar, or Judicator Avatar. |
+  | 89 |  | [Commander Avatar Selection Pack](/Items/con_2151/){: .btn .btn--era5} | Gift | Use to unlock 1 of the following: Dragon Golem Avatar, Regnan Seer Avatar, Evil Sorceress Avatar, Ice Demon Avatar, Troll Avatar, or Judicator Avatar. |
   | 90 | ![Conflux Faction Selection Chest](/images/t/i_907267.png) | [Conflux Faction Selection Chest](/Items/con_1651/){: .btn .btn--era4} | Gift | Use to select 1 Sprite, Storm Elemental, Ice Elemental, Fire Elemental, or Stone Elemental token. |
   | 91 |  | [Conflux Unit Chest](/Items/con_1275/){: .btn .btn--era4} | Gift | Receive a random Conflux Faction Unit token. |
   | 92 | ![Cove Chest](/images/t/i_690021.png) | [Cove Chest](/Items/con_1093/){: .btn .btn--era5} | Gift | A chest found in the Cove Attack event. You can acquire random valuable resources from it. |
@@ -507,7 +507,7 @@ classes: wide
   | 493 | ![SR Unit Token Selection Chest](/images/t/i_907234.png) | [SR Unit Token Selection Chest](/Items/con_1618/){: .btn .btn--era4} | Gift | Use to select 1 Griffin, Swordsman, Monk, Cavalier, Dwarf, Wood Elf, Pegasus, Dendroid Guard, Unicorn, Orc, Ogre, Roc, Cyclops, Wight, Vampire, Hell Hound, Demon, Pit Fiend, Efreeti, Stone Gargoyle, Iron Golem, Mage, Storm Elemental, Ice Elemental, Harpy, or Minotaur token. |
   | 494 | ![SR+ Unit Token Chest](/images/t/i_907210.png) | [SR+ Unit Token Chest](/Items/con_1598/){: .btn .btn--era4} | Gift | Randomly grants 80 Lich, Genie, or Stone Elemental tokens. |
   | 495 | ![SR+ Unit Token Selection Chest](/images/t/i_907235.png) | [SR+ Unit Token Selection Chest](/Items/con_1619/){: .btn .btn--era4} | Gift | Use to select 1 Lich, Genie, Stone Elemental, Manticore, or Mummy token. |
-  | 496 | ![SSR Soul Stone Selection Pack](/images/t/i_907560.png) | [SSR Soul Stone Selection Pack](/Items/con_1105/){: .btn .btn--era5} | Gift | You can select one from the SSR Soul Stones after opening. |
+  | 496 | ![SSR Soul Stone Selection Pack](/images/t/i_907560.png) | [SSR Soul Stone Selection Pack](/Items/con_2154/){: .btn .btn--era5} | Gift | Use to select 1 of the following: 1 Archangel Soul Stone, 1 Supreme Paladin Soul Stone, 1 Gold Dragon Soul Stone, 1 Dread Knight Soul Stone, 1 Ghost Dragon Soul Stone, 1 Ancient Behemoth Soul Stone, 1 Death Howler Soul Stone, 1 Arch Devil Soul Stone, 1 Naga Queen Soul Stone, 1 Titan Soul Stone, 1 Black Dragon King Soul Stone, 1 Chaos Hydra Soul Stone, 1 Mighty Gorgon Soul Stone, 1 Master Leprechaun Soul Stone, or 1 Magic Elemental Soul Stone. |
   | 497 | ![SSR Unit 100 Token Selection Pack (Angel, Devil, Black Knight)](/images/t/i_907374.png) | [SSR Unit 100 Token Selection Pack (Angel, Devil, Black Knight)](/Items/con_1321/){: .btn .btn--era4} | Gift | Use to select 100 Angel, Devil, or Black Knight tokens. |
   | 498 | ![SSR Unit 150 Token Selection Pack (Angel, Devil, Black Knight)](/images/t/i_907374.png) | [SSR Unit 150 Token Selection Pack (Angel, Devil, Black Knight)](/Items/con_1322/){: .btn .btn--era4} | Gift | Use to select 150 Angel, Devil, or Black Knight tokens. |
   | 499 | ![SSR Unit 200 Token Selection Pack (Angel, Devil, Black Knight)](/images/t/i_907374.png) | [SSR Unit 200 Token Selection Pack (Angel, Devil, Black Knight)](/Items/con_1323/){: .btn .btn--era4} | Gift | Use to select 200 Angel, Devil, or Black Knight tokens. |
@@ -561,76 +561,76 @@ classes: wide
   | 547 | ![Stronghold Limited Edition Pack](/images/t/i_994004.png) | [Stronghold Limited Edition Pack](/Items/con_2140/){: .btn .btn--era5} | Gift | Choose to get either 1 Stronghold SSR token or 1 Stronghold SSR Soul Stone. |
   | 548 | ![Stronghold Unit Chest](/images/t/i_904004.png) | [Stronghold Unit Chest](/Items/con_1272/){: .btn .btn--era4} | Gift | Receive a random Stronghold Faction Unit token. |
   | 549 | ![Supply Artifact Selection Chest](/images/t/i_907066.png) | [Supply Artifact Selection Chest](/Items/con_1084/){: .btn .btn--era5} | Gift | A valuable reward from the army supply obtained during the Roland's Capture event. Select one of the following: Armour of the Damned Component Selection Chest, Axe of Ferocity Component Selection Chest, Sharpshooter Bow Component Selection Chest, Undead King Cloak Component Selection Chest. |
-  | 550 | ![Sword of Frost Kilgor Limited-Time Special Offer](/images/t/i_907168.png) | [Sword of Frost Kilgor Limited-Time Special Offer](/Items/con_1959/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Sword of Frost Kilgor skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
-  | 551 | ![Sword of Frost Kilgor Offer](/images/t/i_907321.png) | [Sword of Frost Kilgor Offer](/Items/con_1960/){: .btn .btn--era5} | Gift | Grants 6480 diamonds, 1 Sword of Frost Kilgor skin, 40 Kilgor Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
-  | 552 | ![Sword of Frost Offer](/images/t/i_907374.png) | [Sword of Frost Offer](/Items/con_1758/){: .btn .btn--era5} | Gift | Grants 1 Frost Component Chest and 3,880 diamonds. |
-  | 553 | ![Sword of Frost Special Offer](/images/t/i_907375.png) | [Sword of Frost Special Offer](/Items/con_1759/){: .btn .btn--era5} | Gift | Grants 1 Frost Component Chest and 6,480 diamonds. |
-  | 554 | ![Swordsman's soul package](/images/t/i_907007.png) | [Swordsman's soul package](/Items/con_1393/){: .btn .btn--era4} | Gift | Pack celebrating the revival of Erathia. Possibility of receiving Swordsman tokens or Catherine tokens after use. |
-  | 555 | ![Talent potion ingredients](/images/t/i_3049.png) | [Talent potion ingredients](/Items/con_1120/){: .btn .btn--era3} | Gift | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.  |
-  | 556 | ![Talent supply pack (back row)](/images/t/i_907015.png) | [Talent supply pack (back row)](/Items/con_1401/){: .btn .btn--era4} | Gift | Use it to receive 1 of 488 Caster/Ranged/Charging Units Talent Potions. |
-  | 557 | ![Talent supply pack (front row)](/images/t/i_907014.png) | [Talent supply pack (front row)](/Items/con_1400/){: .btn .btn--era4} | Gift | Use it to receive 1 of 488 Offensive/Defensive/Charging Units Talent Potions. |
-  | 558 | ![Thanksgiving Pack](/images/t/i_906011.png) | [Thanksgiving Pack](/Items/con_1487/){: .btn .btn--era4} | Gift | Thank you for your support of Heroes of Might and Magic! |
-  | 559 | ![Thanksgiving Special Offer Pack](/images/t/i_907040.png) | [Thanksgiving Special Offer Pack](/Items/con_1426/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Harvest Knight Skin *1 and Champion Soul Stone *20 |
-  | 560 |  | [The Cursed Component Chest](/Items/con_1341/){: .btn .btn--era5} | Gift | A component chest of the Armour of the Damned.. Open it to receive one of the components of the Armour of the Damned. |
-  | 561 | ![The Death of Deyja Pack](/images/t/i_907540.png) | [The Death of Deyja Pack](/Items/con_1917/){: .btn .btn--era4} | Gift | Grants Lord Haart's The Death of Deyja skin, 200 Spell Scrolls, and 980 diamonds. |
-  | 562 | ![The Moor Chest](/images/t/i_907119.png) | [The Moor Chest](/Items/con_1505/){: .btn .btn--era5} | Gift | A treasure chest sealed with swamp poison, only the lords having Hydra can open it. |
-  | 563 | ![The Turkey](/images/t/i_907143.png) | [The Turkey](/Items/con_1529/){: .btn .btn--era4} | Gift | Delicious golden turkey, eat it to alleviate some fatigue from the battle. |
-  | 564 |  | [The Undead King Component Chest](/Items/con_1340/){: .btn .btn--era5} | Gift | A component chest of the Cloak of the Undead King. Open it to receive one of the components of the Cloak of the Undead King. |
-  | 565 | ![Thunder Rage Chest](/images/t/i_907082.png) | [Thunder Rage Chest](/Items/con_1549/){: .btn .btn--era5} | Gift | A treasure chest with ancient power, only the lords having Giant can open it. |
-  | 566 | ![Thunder Rage Pack](/images/t/i_907126.png) | [Thunder Rage Pack](/Items/con_1512/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5 |
-  | 567 | ![Tidal Force Pack](/images/t/i_907118.png) | [Tidal Force Pack](/Items/con_1504/){: .btn .btn--era4} | Gift | Open to get 1 Sea Elemental Token |
-  | 568 |  | [Titan Component Chest](/Items/con_1343/){: .btn .btn--era5} | Gift | A component chest of the Titan's Thunder. Open it to receive one of the components of the Titan's Thunder. |
-  | 569 | ![Titan's Thunder package](/images/t/i_907003.png) | [Titan's Thunder package](/Items/con_1389/){: .btn .btn--era4} | Gift | Use it to receive one of the following: Titan's Gladius, Sentinel's Shield, Thunder Helmet, or Titan's Cuirass. |
-  | 570 | ![Tool_2991](/images/t/i_907167.png) | [Tool_2991](/Items/con_675/){: .btn .btn--era4} | Gift |  |
-  | 571 |  | [Tool_303001](/Items/con_743/){: .btn .btn--era4} | Gift |  |
-  | 572 |  | [Tool_303002](/Items/con_744/){: .btn .btn--era4} | Gift |  |
-  | 573 |  | [Tool_303003](/Items/con_745/){: .btn .btn--era4} | Gift |  |
-  | 574 | ![Tool_408001](/images/t/i_907046.png) | [Tool_408001](/Items/con_961/){: .btn .btn--era3} | Gift |  |
-  | 575 | ![Tool_408002](/images/t/i_907046.png) | [Tool_408002](/Items/con_962/){: .btn .btn--era4} | Gift |  |
-  | 576 | ![Tool_613002](/images/t/i_907054.png) | [Tool_613002](/Items/con_1070/){: .btn .btn--era5} | Gift |  |
-  | 577 | ![Tool_906041](/images/t/i_907116.png) | [Tool_906041](/Items/con_1364/){: .btn .btn--era4} | Gift | Use it to get Diamond *2580, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
-  | 578 | ![Tool_906043](/images/t/i_907117.png) | [Tool_906043](/Items/con_1366/){: .btn .btn--era4} | Gift | Use it to get Diamond *5180, Elite Unit Pack *1, Spell Scroll *300 and Temple Scroll *10 |
-  | 579 | ![Tool_906045](/images/t/i_907102.png) | [Tool_906045](/Items/con_1368/){: .btn .btn--era5} | Gift | Use it to get Diamond *60 and Premium Artifact Component Pack *1 |
-  | 580 | ![Tool_906046](/images/t/i_907048.png) | [Tool_906046](/Items/con_1369/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Privilege Artifact Component Pack *1 |
-  | 581 | ![Tool_906051](/images/t/i_907102.png) | [Tool_906051](/Items/con_1374/){: .btn .btn--era5} | Gift |  |
-  | 582 | ![Tool_906052](/images/t/i_907048.png) | [Tool_906052](/Items/con_1375/){: .btn .btn--era5} | Gift |  |
-  | 583 | ![Tool_906053](/images/t/i_906047.png) | [Tool_906053](/Items/con_1376/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Holy Emblem Redemption Ticket *30 |
-  | 584 | ![Tool_906055](/images/t/i_906055.png) | [Tool_906055](/Items/con_1378/){: .btn .btn--era5} | Gift |  |
-  | 585 | ![Tool_906056](/images/t/i_906056.png) | [Tool_906056](/Items/con_1379/){: .btn .btn--era5} | Gift |  |
-  | 586 | ![Tool_906057](/images/t/i_907116.png) | [Tool_906057](/Items/con_1380/){: .btn .btn--era4} | Gift |  |
-  | 587 | ![Tool_906058](/images/t/i_907117.png) | [Tool_906058](/Items/con_1381/){: .btn .btn--era4} | Gift |  |
-  | 588 | ![Tool_906059](/images/t/i_907048.png) | [Tool_906059](/Items/con_1382/){: .btn .btn--era5} | Gift |  |
-  | 589 | ![Tool_907020](/images/t/i_905001.png) | [Tool_907020](/Items/con_1406/){: .btn .btn--era4} | Gift | 2017 CJ exclusive reward containing 2017 CJ exclusive frame x 1. |
-  | 590 | ![Tool_907031](/images/t/i_907031.png) | [Tool_907031](/Items/con_1417/){: .btn .btn--era4} | Gift | Open it to receive great Rewards! |
-  | 591 | ![Tool_907035](/images/t/i_907035.png) | [Tool_907035](/Items/con_1421/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Pit Fiend Token *5, Dendroid Guard Token *5, Cyclops Token *5, Mage Token *5 |
-  | 592 | ![Tool_907036](/images/t/i_907036.png) | [Tool_907036](/Items/con_1422/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Spell Scroll *500, Heaven-Cast Stone *300, Talent Potion *300 |
-  | 593 | ![Tool_907037](/images/t/i_907037.png) | [Tool_907037](/Items/con_1423/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: 1-star Adelaide, Luna, Zydar, Sir Mullich *1 |
-  | 594 | ![Tool_907073](/images/t/i_907064.png) | [Tool_907073](/Items/con_1459/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds |
-  | 595 | ![Tool_907075](/images/t/i_907075.png) | [Tool_907075](/Items/con_1461/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Nian Monster Xeron Skin *1 and Nian Monster Avatar Frame *1 |
-  | 596 | ![Tool_907080](/images/t/i_907080.png) | [Tool_907080](/Items/con_1466/){: .btn .btn--era4} | Gift | Soft and sweet glutinous rice ball, eat it to alleviate some fatigue from the battle. |
-  | 597 | ![Tool_907090](/images/t/i_907065.png) | [Tool_907090](/Items/con_1476/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *300 and Premium Roster Chest *15 |
-  | 598 | ![Tool_907150](/images/t/i_907150.png) | [Tool_907150](/Items/con_1536/){: .btn .btn--era5} | Gift |  |
-  | 599 | ![Tool_907153](/images/t/i_907153.png) | [Tool_907153](/Items/con_1539/){: .btn .btn--era4} | Gift |  |
-  | 600 | ![Tool_907154](/images/t/i_907154.png) | [Tool_907154](/Items/con_1540/){: .btn .btn--era4} | Gift |  |
-  | 601 | ![Tool_907155](/images/t/i_907155.png) | [Tool_907155](/Items/con_1541/){: .btn .btn--era5} | Gift |  |
-  | 602 | ![Tool_907156](/images/t/i_907156.png) | [Tool_907156](/Items/con_1542/){: .btn .btn--era6} | Gift |  |
-  | 603 | ![Tool_907157](/images/t/i_907157.png) | [Tool_907157](/Items/con_1543/){: .btn .btn--era6} | Gift |  |
-  | 604 | ![Tool_907158](/images/t/i_907158.png) | [Tool_907158](/Items/con_1544/){: .btn .btn--era6} | Gift |  |
-  | 605 | ![Tool_907159](/images/t/i_907159.png) | [Tool_907159](/Items/con_1545/){: .btn .btn--era6} | Gift |  |
-  | 606 | ![Tool_907160](/images/t/i_907160.png) | [Tool_907160](/Items/con_1546/){: .btn .btn--era5} | Gift |  |
-  | 607 | ![Tool_907161](/images/t/i_907161.png) | [Tool_907161](/Items/con_1547/){: .btn .btn--era6} | Gift |  |
-  | 608 | ![Tool_907162](/images/t/i_907162.png) | [Tool_907162](/Items/con_1548/){: .btn .btn--era5} | Gift |  |
-  | 609 | ![Tool_907165](/images/t/i_907165.png) | [Tool_907165](/Items/con_1551/){: .btn .btn--era5} | Gift |  |
-  | 610 | ![Tool_907166](/images/t/i_907166.png) | [Tool_907166](/Items/con_1552/){: .btn .btn--era6} | Gift |  |
-  | 611 | ![Tool_907167](/images/t/i_907167.png) | [Tool_907167](/Items/con_1553/){: .btn .btn--era5} | Gift |  |
-  | 612 | ![Tool_907229](/images/t/i_907167.png) | [Tool_907229](/Items/con_1613/){: .btn .btn--era4} | Gift |  |
-  | 613 | ![Tool_907230](/images/t/i_907167.png) | [Tool_907230](/Items/con_1614/){: .btn .btn--era4} | Gift |  |
-  | 614 | ![Tool_907231](/images/t/i_907167.png) | [Tool_907231](/Items/con_1615/){: .btn .btn--era4} | Gift |  |
-  | 615 | ![Tool_907232](/images/t/i_907167.png) | [Tool_907232](/Items/con_1616/){: .btn .btn--era4} | Gift |  |
-  | 616 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/Items/con_1796/){: .btn .btn--era4} | Gift |  |
-  | 617 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
-  | 618 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 619 |  | [Tool_907612](/Items/con_2151/){: .btn .btn--era5} | Gift |  |
+  | 550 |  | [Supreme Grace](/Items/con_2152/){: .btn .btn--era4} | Gift | Use to select 1 of the following: 80 SSR Unit Souls, 80 SSR Soul Stone Selection Chests, 1 Premium Artifact Component Chest, 100 Holy Emblem Redemption Tickets, or 200 Void Mithril. |
+  | 551 | ![Sword of Frost Kilgor Limited-Time Special Offer](/images/t/i_907168.png) | [Sword of Frost Kilgor Limited-Time Special Offer](/Items/con_1959/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Sword of Frost Kilgor skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
+  | 552 | ![Sword of Frost Kilgor Offer](/images/t/i_907321.png) | [Sword of Frost Kilgor Offer](/Items/con_1960/){: .btn .btn--era5} | Gift | Grants 6480 diamonds, 1 Sword of Frost Kilgor skin, 40 Kilgor Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
+  | 553 | ![Sword of Frost Offer](/images/t/i_907374.png) | [Sword of Frost Offer](/Items/con_1758/){: .btn .btn--era5} | Gift | Grants 1 Frost Component Chest and 3,880 diamonds. |
+  | 554 | ![Sword of Frost Special Offer](/images/t/i_907375.png) | [Sword of Frost Special Offer](/Items/con_1759/){: .btn .btn--era5} | Gift | Grants 1 Frost Component Chest and 6,480 diamonds. |
+  | 555 | ![Swordsman's soul package](/images/t/i_907007.png) | [Swordsman's soul package](/Items/con_1393/){: .btn .btn--era4} | Gift | Pack celebrating the revival of Erathia. Possibility of receiving Swordsman tokens or Catherine tokens after use. |
+  | 556 | ![Talent potion ingredients](/images/t/i_3049.png) | [Talent potion ingredients](/Items/con_1120/){: .btn .btn--era3} | Gift | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.  |
+  | 557 | ![Talent supply pack (back row)](/images/t/i_907015.png) | [Talent supply pack (back row)](/Items/con_1401/){: .btn .btn--era4} | Gift | Use it to receive 1 of 488 Caster/Ranged/Charging Units Talent Potions. |
+  | 558 | ![Talent supply pack (front row)](/images/t/i_907014.png) | [Talent supply pack (front row)](/Items/con_1400/){: .btn .btn--era4} | Gift | Use it to receive 1 of 488 Offensive/Defensive/Charging Units Talent Potions. |
+  | 559 | ![Thanksgiving Pack](/images/t/i_906011.png) | [Thanksgiving Pack](/Items/con_1487/){: .btn .btn--era4} | Gift | Thank you for your support of Heroes of Might and Magic! |
+  | 560 | ![Thanksgiving Special Offer Pack](/images/t/i_907040.png) | [Thanksgiving Special Offer Pack](/Items/con_1426/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Harvest Knight Skin *1 and Champion Soul Stone *20 |
+  | 561 |  | [The Cursed Component Chest](/Items/con_1341/){: .btn .btn--era5} | Gift | A component chest of the Armour of the Damned.. Open it to receive one of the components of the Armour of the Damned. |
+  | 562 | ![The Death of Deyja Pack](/images/t/i_907540.png) | [The Death of Deyja Pack](/Items/con_1917/){: .btn .btn--era4} | Gift | Grants Lord Haart's The Death of Deyja skin, 200 Spell Scrolls, and 980 diamonds. |
+  | 563 | ![The Moor Chest](/images/t/i_907119.png) | [The Moor Chest](/Items/con_1505/){: .btn .btn--era5} | Gift | A treasure chest sealed with swamp poison, only the lords having Hydra can open it. |
+  | 564 | ![The Turkey](/images/t/i_907143.png) | [The Turkey](/Items/con_1529/){: .btn .btn--era4} | Gift | Delicious golden turkey, eat it to alleviate some fatigue from the battle. |
+  | 565 |  | [The Undead King Component Chest](/Items/con_1340/){: .btn .btn--era5} | Gift | A component chest of the Cloak of the Undead King. Open it to receive one of the components of the Cloak of the Undead King. |
+  | 566 | ![Thunder Rage Chest](/images/t/i_907082.png) | [Thunder Rage Chest](/Items/con_1549/){: .btn .btn--era5} | Gift | A treasure chest with ancient power, only the lords having Giant can open it. |
+  | 567 | ![Thunder Rage Pack](/images/t/i_907126.png) | [Thunder Rage Pack](/Items/con_1512/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5 |
+  | 568 | ![Tidal Force Pack](/images/t/i_907118.png) | [Tidal Force Pack](/Items/con_1504/){: .btn .btn--era4} | Gift | Open to get 1 Sea Elemental Token |
+  | 569 |  | [Titan Component Chest](/Items/con_1343/){: .btn .btn--era5} | Gift | A component chest of the Titan's Thunder. Open it to receive one of the components of the Titan's Thunder. |
+  | 570 | ![Titan's Thunder package](/images/t/i_907003.png) | [Titan's Thunder package](/Items/con_1389/){: .btn .btn--era4} | Gift | Use it to receive one of the following: Titan's Gladius, Sentinel's Shield, Thunder Helmet, or Titan's Cuirass. |
+  | 571 | ![Tool_2991](/images/t/i_907167.png) | [Tool_2991](/Items/con_675/){: .btn .btn--era4} | Gift |  |
+  | 572 |  | [Tool_303001](/Items/con_743/){: .btn .btn--era4} | Gift |  |
+  | 573 |  | [Tool_303002](/Items/con_744/){: .btn .btn--era4} | Gift |  |
+  | 574 |  | [Tool_303003](/Items/con_745/){: .btn .btn--era4} | Gift |  |
+  | 575 | ![Tool_408001](/images/t/i_907046.png) | [Tool_408001](/Items/con_961/){: .btn .btn--era3} | Gift |  |
+  | 576 | ![Tool_408002](/images/t/i_907046.png) | [Tool_408002](/Items/con_962/){: .btn .btn--era4} | Gift |  |
+  | 577 | ![Tool_613002](/images/t/i_907054.png) | [Tool_613002](/Items/con_1070/){: .btn .btn--era5} | Gift |  |
+  | 578 | ![Tool_906041](/images/t/i_907116.png) | [Tool_906041](/Items/con_1364/){: .btn .btn--era4} | Gift | Use it to get Diamond *2580, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
+  | 579 | ![Tool_906043](/images/t/i_907117.png) | [Tool_906043](/Items/con_1366/){: .btn .btn--era4} | Gift | Use it to get Diamond *5180, Elite Unit Pack *1, Spell Scroll *300 and Temple Scroll *10 |
+  | 580 | ![Tool_906045](/images/t/i_907102.png) | [Tool_906045](/Items/con_1368/){: .btn .btn--era5} | Gift | Use it to get Diamond *60 and Premium Artifact Component Pack *1 |
+  | 581 | ![Tool_906046](/images/t/i_907048.png) | [Tool_906046](/Items/con_1369/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Privilege Artifact Component Pack *1 |
+  | 582 | ![Tool_906051](/images/t/i_907102.png) | [Tool_906051](/Items/con_1374/){: .btn .btn--era5} | Gift |  |
+  | 583 | ![Tool_906052](/images/t/i_907048.png) | [Tool_906052](/Items/con_1375/){: .btn .btn--era5} | Gift |  |
+  | 584 | ![Tool_906053](/images/t/i_906047.png) | [Tool_906053](/Items/con_1376/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Holy Emblem Redemption Ticket *30 |
+  | 585 | ![Tool_906055](/images/t/i_906055.png) | [Tool_906055](/Items/con_1378/){: .btn .btn--era5} | Gift |  |
+  | 586 | ![Tool_906056](/images/t/i_906056.png) | [Tool_906056](/Items/con_1379/){: .btn .btn--era5} | Gift |  |
+  | 587 | ![Tool_906057](/images/t/i_907116.png) | [Tool_906057](/Items/con_1380/){: .btn .btn--era4} | Gift |  |
+  | 588 | ![Tool_906058](/images/t/i_907117.png) | [Tool_906058](/Items/con_1381/){: .btn .btn--era4} | Gift |  |
+  | 589 | ![Tool_906059](/images/t/i_907048.png) | [Tool_906059](/Items/con_1382/){: .btn .btn--era5} | Gift |  |
+  | 590 | ![Tool_907020](/images/t/i_905001.png) | [Tool_907020](/Items/con_1406/){: .btn .btn--era4} | Gift | 2017 CJ exclusive reward containing 2017 CJ exclusive frame x 1. |
+  | 591 | ![Tool_907031](/images/t/i_907031.png) | [Tool_907031](/Items/con_1417/){: .btn .btn--era4} | Gift | Open it to receive great Rewards! |
+  | 592 | ![Tool_907035](/images/t/i_907035.png) | [Tool_907035](/Items/con_1421/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Pit Fiend Token *5, Dendroid Guard Token *5, Cyclops Token *5, Mage Token *5 |
+  | 593 | ![Tool_907036](/images/t/i_907036.png) | [Tool_907036](/Items/con_1422/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Spell Scroll *500, Heaven-Cast Stone *300, Talent Potion *300 |
+  | 594 | ![Tool_907037](/images/t/i_907037.png) | [Tool_907037](/Items/con_1423/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: 1-star Adelaide, Luna, Zydar, Sir Mullich *1 |
+  | 595 | ![Tool_907073](/images/t/i_907064.png) | [Tool_907073](/Items/con_1459/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds |
+  | 596 | ![Tool_907075](/images/t/i_907075.png) | [Tool_907075](/Items/con_1461/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Nian Monster Xeron Skin *1 and Nian Monster Avatar Frame *1 |
+  | 597 | ![Tool_907080](/images/t/i_907080.png) | [Tool_907080](/Items/con_1466/){: .btn .btn--era4} | Gift | Soft and sweet glutinous rice ball, eat it to alleviate some fatigue from the battle. |
+  | 598 | ![Tool_907090](/images/t/i_907065.png) | [Tool_907090](/Items/con_1476/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *300 and Premium Roster Chest *15 |
+  | 599 | ![Tool_907150](/images/t/i_907150.png) | [Tool_907150](/Items/con_1536/){: .btn .btn--era5} | Gift |  |
+  | 600 | ![Tool_907153](/images/t/i_907153.png) | [Tool_907153](/Items/con_1539/){: .btn .btn--era4} | Gift |  |
+  | 601 | ![Tool_907154](/images/t/i_907154.png) | [Tool_907154](/Items/con_1540/){: .btn .btn--era4} | Gift |  |
+  | 602 | ![Tool_907155](/images/t/i_907155.png) | [Tool_907155](/Items/con_1541/){: .btn .btn--era5} | Gift |  |
+  | 603 | ![Tool_907156](/images/t/i_907156.png) | [Tool_907156](/Items/con_1542/){: .btn .btn--era6} | Gift |  |
+  | 604 | ![Tool_907157](/images/t/i_907157.png) | [Tool_907157](/Items/con_1543/){: .btn .btn--era6} | Gift |  |
+  | 605 | ![Tool_907158](/images/t/i_907158.png) | [Tool_907158](/Items/con_1544/){: .btn .btn--era6} | Gift |  |
+  | 606 | ![Tool_907159](/images/t/i_907159.png) | [Tool_907159](/Items/con_1545/){: .btn .btn--era6} | Gift |  |
+  | 607 | ![Tool_907160](/images/t/i_907160.png) | [Tool_907160](/Items/con_1546/){: .btn .btn--era5} | Gift |  |
+  | 608 | ![Tool_907161](/images/t/i_907161.png) | [Tool_907161](/Items/con_1547/){: .btn .btn--era6} | Gift |  |
+  | 609 | ![Tool_907162](/images/t/i_907162.png) | [Tool_907162](/Items/con_1548/){: .btn .btn--era5} | Gift |  |
+  | 610 | ![Tool_907165](/images/t/i_907165.png) | [Tool_907165](/Items/con_1551/){: .btn .btn--era5} | Gift |  |
+  | 611 | ![Tool_907166](/images/t/i_907166.png) | [Tool_907166](/Items/con_1552/){: .btn .btn--era6} | Gift |  |
+  | 612 | ![Tool_907167](/images/t/i_907167.png) | [Tool_907167](/Items/con_1553/){: .btn .btn--era5} | Gift |  |
+  | 613 | ![Tool_907229](/images/t/i_907167.png) | [Tool_907229](/Items/con_1613/){: .btn .btn--era4} | Gift |  |
+  | 614 | ![Tool_907230](/images/t/i_907167.png) | [Tool_907230](/Items/con_1614/){: .btn .btn--era4} | Gift |  |
+  | 615 | ![Tool_907231](/images/t/i_907167.png) | [Tool_907231](/Items/con_1615/){: .btn .btn--era4} | Gift |  |
+  | 616 | ![Tool_907232](/images/t/i_907167.png) | [Tool_907232](/Items/con_1616/){: .btn .btn--era4} | Gift |  |
+  | 617 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/Items/con_1796/){: .btn .btn--era4} | Gift |  |
+  | 618 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
+  | 619 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
   | 620 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/Items/con_2099/){: .btn .btn--era4} | Gift |  |
   | 621 | ![Tower Faction Selection Chest](/images/t/i_907282.png) | [Tower Faction Selection Chest](/Items/con_1666/){: .btn .btn--era4} | Gift | Use to select 1 Gremlin, Stone Gargoyle, Iron Golem, or Mage token. |
   | 622 | ![Tower Limited Edition Pack](/images/t/i_994006.png) | [Tower Limited Edition Pack](/Items/con_2110/){: .btn .btn--era5} | Gift | Choose to get either 1 Tower SSR token or 1 Tower SSR Soul Stone. |

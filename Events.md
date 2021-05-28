@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Event related.md"
 toc: false
@@ -205,52 +205,53 @@ classes: wide
   | 191 | ![Starlit Rose](/images/t/i_3060.png) | [Starlit Rose](/Items/con_812/){: .btn .btn--era4} | Event related | The exclusive items during Valentine's Day, used to exchange for event items |
   | 192 | ![Starlit rose](/images/t/i_3060.png) | [Starlit rose](/Items/con_802/){: .btn .btn--era5} | Event related |  |
   | 193 | ![Stronghold Roster runes](/images/t/i_tool_tujian8.png) | [Stronghold Roster runes](/Items/con_754/){: .btn .btn--era3} | Event related | Important item to increase your Stronghold units' rankings. |
-  | 194 | ![Supreme Paladin's Soul](/images/t/juexing_108.png) | [Supreme Paladin's Soul](/Items/con_2019/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Paladin's Awakening |
-  | 195 | ![Teochew Beef Hotpot](/images/t/i_81511331.png) | [Teochew Beef Hotpot](/Items/con_1181/){: .btn .btn--era3} | Event related | The soup, consisting of only beef bone stock and white radish, accentuates the beef's inherent flavor. This dish perfectly exemplifies the philosophy of Teochew cuisine—even a humble dish can still pack a punch. However, this particular pot of food still seems rather raw. |
-  | 196 | ![Teochew Master Stock Hotpot](/images/t/i_81531131.png) | [Teochew Master Stock Hotpot](/Items/con_1232/){: .btn .btn--era3} | Event related | Goose oil is added to a master stock made from a variety of Chinese herbs and medicines, giving this dish a soul. Fresh goose intestines, foie gras, and goose gizzards are cooked in this stock. The more you eat, the more fragrant it seems. This particular pot of food still seems rather raw. |
-  | 197 | ![Thunderbird's Soul](/images/t/juexing_405.png) | [Thunderbird's Soul](/Items/con_2039/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Roc's Awakening |
-  | 198 | ![Titan Soul](/images/t/juexing_607.jpg) | [Titan Soul](/Items/con_2056/){: .btn .btn--era5} | Event related | An ancient immortal hero soul. Can be used for Titan's Awakening. |
-  | 199 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/Items/con_511/){: .btn .btn--era4} | Event related | Exclusive items from New Year event, can be exchanged for Rare items in corresponding events! |
-  | 200 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/Items/con_517/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
-  | 201 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/Items/con_518/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
-  | 202 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/Items/con_524/){: .btn .btn--era4} | Event related |  |
-  | 203 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/Items/con_525/){: .btn .btn--era4} | Event related |  |
-  | 204 | ![Tool_10012](/images/t/i_10012.png) | [Tool_10012](/Items/con_526/){: .btn .btn--era4} | Event related |  |
-  | 205 | ![Tool_10014](/images/t/i_10014.png) | [Tool_10014](/Items/con_528/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
-  | 206 | ![Tool_3064](/images/t/i_3064.png) | [Tool_3064](/Items/con_806/){: .btn .btn--era4} | Event related |  |
-  | 207 |  | [Tool_31045](/Items/con_866/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
-  | 208 | ![Tool_93601](/images/t/juexing_601.jpg) | [Tool_93601](/Items/con_2050/){: .btn .btn--era5} | Event related |  |
-  | 209 | ![Tool_93602](/images/t/juexing_602.jpg) | [Tool_93602](/Items/con_2051/){: .btn .btn--era5} | Event related |  |
-  | 210 | ![Tool_93608](/images/t/juexing_608.jpg) | [Tool_93608](/Items/con_2057/){: .btn .btn--era5} | Event related |  |
-  | 211 | ![Tool_93708](/images/t/juexing_708.jpg) | [Tool_93708](/Items/con_2065/){: .btn .btn--era5} | Event related |  |
-  | 212 | ![Tool_93804](/images/t/juexing_804.jpg) | [Tool_93804](/Items/con_2068/){: .btn .btn--era5} | Event related |  |
-  | 213 | ![Tool_939901](/images/t/juexing_9901.jpg) | [Tool_939901](/Items/con_2080/){: .btn .btn--era5} | Event related |  |
-  | 214 | ![Tool_939902](/images/t/juexing_9902.png) | [Tool_939902](/Items/con_2081/){: .btn .btn--era5} | Event related |  |
-  | 215 | ![Tool_939904](/images/t/juexing_9904.jpg) | [Tool_939904](/Items/con_2082/){: .btn .btn--era5} | Event related |  |
-  | 216 | ![Tool_939905](/images/t/juexing_9905.jpg) | [Tool_939905](/Items/con_2083/){: .btn .btn--era5} | Event related |  |
-  | 217 | ![Tool_939906](/images/t/juexing_9906.jpg) | [Tool_939906](/Items/con_2084/){: .btn .btn--era5} | Event related |  |
-  | 218 | ![Tool_939909](/images/t/juexing_9909.jpg) | [Tool_939909](/Items/con_2086/){: .btn .btn--era5} | Event related |  |
-  | 219 | ![Tower Roster runes](/images/t/i_tool_tujian11.png) | [Tower Roster runes](/Items/con_785/){: .btn .btn--era3} | Event related | Important item to increase your Tower units' rankings. |
-  | 220 | ![Toy Christmas Stocking](/images/t/i_690017.png) | [Toy Christmas Stocking](/Items/con_1091/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
-  | 221 | ![Toy Christmas Tree](/images/t/i_690016.png) | [Toy Christmas Tree](/Items/con_1090/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
-  | 222 | ![Toy Reindeer](/images/t/i_690014.png) | [Toy Reindeer](/Items/con_1088/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
-  | 223 | ![Toy Sleigh](/images/t/i_690015.png) | [Toy Sleigh](/Items/con_1089/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
-  | 224 | ![UBI Coin](/images/t/i_10032.png) | [UBI Coin](/Items/con_546/){: .btn .btn--era4} | Event related | Limited-time event item. Can be exchanged for various rewards during this event only! |
-  | 225 | ![Underground Gem](/images/t/i_10026.png) | [Underground Gem](/Items/con_540/){: .btn .btn--era4} | Event related | A gem of special material obtained through mining. It can be exchanged for items at the Exchange Store. |
-  | 226 | ![Unknown Gift](/images/t/i_10015.png) | [Unknown Gift](/Items/con_529/){: .btn .btn--era4} | Event related | Although these gifts aren't signed, they're the best proof that you're liked by people. |
-  | 227 |  | [Upgrade Essence](/Items/con_696/){: .btn .btn--era3} | Event related | Pure magical essence. Use it to upgrade your units. |
-  | 228 | ![Vampire Lord's Soul](/images/t/juexing_304.png) | [Vampire Lord's Soul](/Items/con_2030/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Vampire Lord's Awakening |
-  | 229 | ![Vegetable Platter](/images/t/i_8150012.png) | [Vegetable Platter](/Items/con_1162/){: .btn .btn--era4} | Event related | A large platter filled with an assortment of vegetables. |
-  | 230 | ![Void Mithril](/images/t/i_3075.png) | [Void Mithril](/Items/con_817/){: .btn .btn--era4} | Event related | A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment. |
-  | 231 | ![War Unicorn's Soul](/images/t/juexing_206.png) | [War Unicorn's Soul](/Items/con_2024/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Unicorn's Awakening |
-  | 232 | ![Wolf Raider's Soul](/images/t/juexing_402.png) | [Wolf Raider's Soul](/Items/con_2036/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wolf Rider's Awakening |
-  | 233 | ![Wooden Hammer](/images/t/i_10024.png) | [Wooden Hammer](/Items/con_538/){: .btn .btn--era4} | Event related | Used to open Easter Eggs. |
-  | 234 | ![Wraith's Soul](/images/t/juexing_303.png) | [Wraith's Soul](/Items/con_2029/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wight's Awakening |
-  | 235 | ![Wyvern Monarch's Soul](/images/t/juexing_806.jpg) | [Wyvern Monarch's Soul](/Items/con_2070/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wyvern's Awakening |
-  | 236 | ![Yellow Candy](/images/t/i_10036.png) | [Yellow Candy](/Items/con_550/){: .btn .btn--era4} | Event related | A beautifully packaged yellow candy. Can be used in the New Year Double Discounts event. |
-  | 237 | ![Yunnan Cured Ribs Hotpot](/images/t/i_81531221.png) | [Yunnan Cured Ribs Hotpot](/Items/con_1235/){: .btn .btn--era3} | Event related | Pork ribs are preserved in a large amount of salt for more than half a month until they become firm and salty. After that, the ribs are cooked in a chicken broth hotpot to intensify the umami taste of this dish. This particular pot of food still seems rather raw. |
-  | 238 | ![Yunnan Sour Pig Trotter Soup](/images/t/i_81531111.png) | [Yunnan Sour Pig Trotter Soup](/Items/con_1226/){: .btn .btn--era3} | Event related | Pig trotters rich in collagen with a delicate taste are stewed slowly in a delicious sour-tasting soup with an original sour taste made according to a secret recipe. This is truly a rarely seen delicacy. This particular pot of food still seems rather raw. |
-  | 239 | ![Yunnan Wild Mushroom Hotpot](/images/t/i_81512221.png) | [Yunnan Wild Mushroom Hotpot](/Items/con_1184/){: .btn .btn--era3} | Event related | The edible wild mushrooms in this dish are sourced from the intricate natural environment of Yunnan. There are nearly 30 different types of edible mushrooms within this little pot of chicken soup, enhancing its rich and luscious taste. However, this particular pot of food still seems rather raw. |
-  | 240 | ![Zealot Soul](/images/t/juexing_105.jpg) | [Zealot Soul](/Items/con_2016/){: .btn .btn--era5} | Event related | An ancient immortal Hero Soul. Can be used for Monk's Awakening. |
-  | 241 | ![Zombie's Soul](/images/t/juexing_302.png) | [Zombie's Soul](/Items/con_2028/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Walking Dead's Awakening |
-  | 242 |  | [of](/Items/con_864/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
+  | 194 |  | [Supreme Grace Tokens](/Items/con_2153/){: .btn .btn--era5} | Event related | Collect 100 to select 1 of the following: 80 SSR Unit Souls, 80 SSR Soul Stone Selection Chests, 1 Premium Artifact Component Chest, 100 Holy Emblem Redemption Tickets, or 200 Void Mithril. |
+  | 195 | ![Supreme Paladin's Soul](/images/t/juexing_108.png) | [Supreme Paladin's Soul](/Items/con_2019/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Paladin's Awakening |
+  | 196 | ![Teochew Beef Hotpot](/images/t/i_81511331.png) | [Teochew Beef Hotpot](/Items/con_1181/){: .btn .btn--era3} | Event related | The soup, consisting of only beef bone stock and white radish, accentuates the beef's inherent flavor. This dish perfectly exemplifies the philosophy of Teochew cuisine—even a humble dish can still pack a punch. However, this particular pot of food still seems rather raw. |
+  | 197 | ![Teochew Master Stock Hotpot](/images/t/i_81531131.png) | [Teochew Master Stock Hotpot](/Items/con_1232/){: .btn .btn--era3} | Event related | Goose oil is added to a master stock made from a variety of Chinese herbs and medicines, giving this dish a soul. Fresh goose intestines, foie gras, and goose gizzards are cooked in this stock. The more you eat, the more fragrant it seems. This particular pot of food still seems rather raw. |
+  | 198 | ![Thunderbird's Soul](/images/t/juexing_405.png) | [Thunderbird's Soul](/Items/con_2039/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Roc's Awakening |
+  | 199 | ![Titan Soul](/images/t/juexing_607.jpg) | [Titan Soul](/Items/con_2056/){: .btn .btn--era5} | Event related | An ancient immortal hero soul. Can be used for Titan's Awakening. |
+  | 200 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/Items/con_511/){: .btn .btn--era4} | Event related | Exclusive items from New Year event, can be exchanged for Rare items in corresponding events! |
+  | 201 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/Items/con_517/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
+  | 202 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/Items/con_518/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
+  | 203 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/Items/con_524/){: .btn .btn--era4} | Event related |  |
+  | 204 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/Items/con_525/){: .btn .btn--era4} | Event related |  |
+  | 205 | ![Tool_10012](/images/t/i_10012.png) | [Tool_10012](/Items/con_526/){: .btn .btn--era4} | Event related |  |
+  | 206 | ![Tool_10014](/images/t/i_10014.png) | [Tool_10014](/Items/con_528/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
+  | 207 | ![Tool_3064](/images/t/i_3064.png) | [Tool_3064](/Items/con_806/){: .btn .btn--era4} | Event related |  |
+  | 208 |  | [Tool_31045](/Items/con_866/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
+  | 209 | ![Tool_93601](/images/t/juexing_601.jpg) | [Tool_93601](/Items/con_2050/){: .btn .btn--era5} | Event related |  |
+  | 210 | ![Tool_93602](/images/t/juexing_602.jpg) | [Tool_93602](/Items/con_2051/){: .btn .btn--era5} | Event related |  |
+  | 211 | ![Tool_93608](/images/t/juexing_608.jpg) | [Tool_93608](/Items/con_2057/){: .btn .btn--era5} | Event related |  |
+  | 212 | ![Tool_93708](/images/t/juexing_708.jpg) | [Tool_93708](/Items/con_2065/){: .btn .btn--era5} | Event related |  |
+  | 213 | ![Tool_93804](/images/t/juexing_804.jpg) | [Tool_93804](/Items/con_2068/){: .btn .btn--era5} | Event related |  |
+  | 214 | ![Tool_939901](/images/t/juexing_9901.jpg) | [Tool_939901](/Items/con_2080/){: .btn .btn--era5} | Event related |  |
+  | 215 | ![Tool_939902](/images/t/juexing_9902.png) | [Tool_939902](/Items/con_2081/){: .btn .btn--era5} | Event related |  |
+  | 216 | ![Tool_939904](/images/t/juexing_9904.jpg) | [Tool_939904](/Items/con_2082/){: .btn .btn--era5} | Event related |  |
+  | 217 | ![Tool_939905](/images/t/juexing_9905.jpg) | [Tool_939905](/Items/con_2083/){: .btn .btn--era5} | Event related |  |
+  | 218 | ![Tool_939906](/images/t/juexing_9906.jpg) | [Tool_939906](/Items/con_2084/){: .btn .btn--era5} | Event related |  |
+  | 219 | ![Tool_939909](/images/t/juexing_9909.jpg) | [Tool_939909](/Items/con_2086/){: .btn .btn--era5} | Event related |  |
+  | 220 | ![Tower Roster runes](/images/t/i_tool_tujian11.png) | [Tower Roster runes](/Items/con_785/){: .btn .btn--era3} | Event related | Important item to increase your Tower units' rankings. |
+  | 221 | ![Toy Christmas Stocking](/images/t/i_690017.png) | [Toy Christmas Stocking](/Items/con_1091/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
+  | 222 | ![Toy Christmas Tree](/images/t/i_690016.png) | [Toy Christmas Tree](/Items/con_1090/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
+  | 223 | ![Toy Reindeer](/images/t/i_690014.png) | [Toy Reindeer](/Items/con_1088/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
+  | 224 | ![Toy Sleigh](/images/t/i_690015.png) | [Toy Sleigh](/Items/con_1089/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
+  | 225 | ![UBI Coin](/images/t/i_10032.png) | [UBI Coin](/Items/con_546/){: .btn .btn--era4} | Event related | Limited-time event item. Can be exchanged for various rewards during this event only! |
+  | 226 | ![Underground Gem](/images/t/i_10026.png) | [Underground Gem](/Items/con_540/){: .btn .btn--era4} | Event related | A gem of special material obtained through mining. It can be exchanged for items at the Exchange Store. |
+  | 227 | ![Unknown Gift](/images/t/i_10015.png) | [Unknown Gift](/Items/con_529/){: .btn .btn--era4} | Event related | Although these gifts aren't signed, they're the best proof that you're liked by people. |
+  | 228 |  | [Upgrade Essence](/Items/con_696/){: .btn .btn--era3} | Event related | Pure magical essence. Use it to upgrade your units. |
+  | 229 | ![Vampire Lord's Soul](/images/t/juexing_304.png) | [Vampire Lord's Soul](/Items/con_2030/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Vampire Lord's Awakening |
+  | 230 | ![Vegetable Platter](/images/t/i_8150012.png) | [Vegetable Platter](/Items/con_1162/){: .btn .btn--era4} | Event related | A large platter filled with an assortment of vegetables. |
+  | 231 | ![Void Mithril](/images/t/i_3075.png) | [Void Mithril](/Items/con_817/){: .btn .btn--era4} | Event related | A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment. |
+  | 232 | ![War Unicorn's Soul](/images/t/juexing_206.png) | [War Unicorn's Soul](/Items/con_2024/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Unicorn's Awakening |
+  | 233 | ![Wolf Raider's Soul](/images/t/juexing_402.png) | [Wolf Raider's Soul](/Items/con_2036/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wolf Rider's Awakening |
+  | 234 | ![Wooden Hammer](/images/t/i_10024.png) | [Wooden Hammer](/Items/con_538/){: .btn .btn--era4} | Event related | Used to open Easter Eggs. |
+  | 235 | ![Wraith's Soul](/images/t/juexing_303.png) | [Wraith's Soul](/Items/con_2029/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wight's Awakening |
+  | 236 | ![Wyvern Monarch's Soul](/images/t/juexing_806.jpg) | [Wyvern Monarch's Soul](/Items/con_2070/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wyvern's Awakening |
+  | 237 | ![Yellow Candy](/images/t/i_10036.png) | [Yellow Candy](/Items/con_550/){: .btn .btn--era4} | Event related | A beautifully packaged yellow candy. Can be used in the New Year Double Discounts event. |
+  | 238 | ![Yunnan Cured Ribs Hotpot](/images/t/i_81531221.png) | [Yunnan Cured Ribs Hotpot](/Items/con_1235/){: .btn .btn--era3} | Event related | Pork ribs are preserved in a large amount of salt for more than half a month until they become firm and salty. After that, the ribs are cooked in a chicken broth hotpot to intensify the umami taste of this dish. This particular pot of food still seems rather raw. |
+  | 239 | ![Yunnan Sour Pig Trotter Soup](/images/t/i_81531111.png) | [Yunnan Sour Pig Trotter Soup](/Items/con_1226/){: .btn .btn--era3} | Event related | Pig trotters rich in collagen with a delicate taste are stewed slowly in a delicious sour-tasting soup with an original sour taste made according to a secret recipe. This is truly a rarely seen delicacy. This particular pot of food still seems rather raw. |
+  | 240 | ![Yunnan Wild Mushroom Hotpot](/images/t/i_81512221.png) | [Yunnan Wild Mushroom Hotpot](/Items/con_1184/){: .btn .btn--era3} | Event related | The edible wild mushrooms in this dish are sourced from the intricate natural environment of Yunnan. There are nearly 30 different types of edible mushrooms within this little pot of chicken soup, enhancing its rich and luscious taste. However, this particular pot of food still seems rather raw. |
+  | 241 | ![Zealot Soul](/images/t/juexing_105.jpg) | [Zealot Soul](/Items/con_2016/){: .btn .btn--era5} | Event related | An ancient immortal Hero Soul. Can be used for Monk's Awakening. |
+  | 242 | ![Zombie's Soul](/images/t/juexing_302.png) | [Zombie's Soul](/Items/con_2028/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Walking Dead's Awakening |
+  | 243 |  | [of](/Items/con_864/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |

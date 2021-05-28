@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Crystal +1"
 permalink: /mat_45/
 excerpt: "Era of Chaos  Rare Crystal +1"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "mat_45.md"
 toc: false

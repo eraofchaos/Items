@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Mercury +1"
 permalink: /mat_70/
 excerpt: "Era of Chaos  Eternal Mercury +1"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "mat_70.md"
 toc: false

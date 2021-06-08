@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Sulfur +5"
 permalink: /mat_99/
 excerpt: "Era of Chaos  Radiant Sulfur +5"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "mat_99.md"
 toc: false

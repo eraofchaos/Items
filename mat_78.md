@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Sulfur +2"
 permalink: /mat_78/
 excerpt: "Era of Chaos  Secret Sulfur +2"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "mat_78.md"
 toc: false

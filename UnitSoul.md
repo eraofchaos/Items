@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Unit Soul.md"
 toc: false
@@ -92,12 +92,12 @@ classes: wide
   | 78 | ![Storm Elemental](/images/u/ti_leiyuansu2.jpg) | [Storm Elemental](/Items/unt_263/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Storm Elemental. Tokens can also be used to upgrade or increase the rank of Storm Elementals. |
   | 79 | ![Swordsman](/images/u/ti_shizijun.jpg) | [Swordsman](/Items/unt_193/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Swordsman, an SR aptitude unit. |
   | 80 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
-  | 81 | ![Tool_3509](/images/u/ti_yanmo.jpg) | [Tool_3509](/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 82 | ![Tool_3809](/images/u/ti_baihu.jpg) | [Tool_3809](/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
-  | 83 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/Items/unt_244/){: .btn .btn--era3} | Unit Soul | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes. |
-  | 84 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/Items/unt_225/){: .btn .btn--era6} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Troll, a Commander unit |
-  | 85 | ![Unicorn](/images/u/ti_dujiaoshou.jpg) | [Unicorn](/Items/unt_204/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Unicorn, an SR aptitude unit. |
-  | 86 | ![Vampire](/images/u/ti_xixuegui.jpg) | [Vampire](/Items/unt_211/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Vampire, an SR aptitude unit. |
+  | 81 | ![Tool_3809](/images/u/ti_baihu.jpg) | [Tool_3809](/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
+  | 82 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/Items/unt_244/){: .btn .btn--era3} | Unit Soul | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes. |
+  | 83 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/Items/unt_225/){: .btn .btn--era6} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Troll, a Commander unit |
+  | 84 | ![Unicorn](/images/u/ti_dujiaoshou.jpg) | [Unicorn](/Items/unt_204/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Unicorn, an SR aptitude unit. |
+  | 85 | ![Vampire](/images/u/ti_xixuegui.jpg) | [Vampire](/Items/unt_211/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Vampire, an SR aptitude unit. |
+  | 86 | ![Venom Spawn](/images/u/ti_yanmo.jpg) | [Venom Spawn](/Items/unt_234/){: .btn .btn--era6} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Venom Spawn, a Commander unit |
   | 87 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/Items/unt_209/){: .btn .btn--era3} | Unit Soul | Once you have gathered 10 soul tokens you can summon a Walking Dead, an R aptitude unit. |
   | 88 | ![Waspwort](/images/u/ti_dufengcao.jpg) | [Waspwort](/Items/unt_260/){: .btn .btn--era4} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Waspwort. Tokens can also be used to upgrade or increase the rank of Waspwort. |
   | 89 | ![Wight](/images/u/ti_youling.jpg) | [Wight](/Items/unt_210/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Wight, an SR aptitude unit. |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Mercury +2"
 permalink: /mat_77/
 excerpt: "Era of Chaos  Secret Mercury +2"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "mat_77.md"
 toc: false

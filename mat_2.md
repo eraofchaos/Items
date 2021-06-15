@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Mercury"
 permalink: /mat_2/
 excerpt: "Era of Chaos  Inferior Mercury"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "mat_2.md"
 toc: false

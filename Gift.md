@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Gift.md"
 toc: false
@@ -588,103 +588,102 @@ classes: wide
   | 574 | ![Thunder Rage Chest](/images/t/i_907082.png) | [Thunder Rage Chest](/Items/con_1549/){: .btn .btn--era5} | Gift | A treasure chest with ancient power, only the lords having Giant can open it. |
   | 575 | ![Thunder Rage Pack](/images/t/i_907126.png) | [Thunder Rage Pack](/Items/con_1512/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5 |
   | 576 | ![Tidal Force Pack](/images/t/i_907118.png) | [Tidal Force Pack](/Items/con_1504/){: .btn .btn--era4} | Gift | Open to get 1 Sea Elemental Token |
-  | 577 |  | [Titan Component Chest](/Items/con_1343/){: .btn .btn--era5} | Gift | A component chest of the Titan's Thunder. Open it to receive one of the components of the Titan's Thunder. |
-  | 578 | ![Titan's Thunder package](/images/t/i_907003.png) | [Titan's Thunder package](/Items/con_1389/){: .btn .btn--era4} | Gift | Use it to receive one of the following: Titan's Gladius, Sentinel's Shield, Thunder Helmet, or Titan's Cuirass. |
-  | 579 | ![Tool_2991](/images/t/i_907167.png) | [Tool_2991](/Items/con_675/){: .btn .btn--era4} | Gift |  |
-  | 580 |  | [Tool_303001](/Items/con_743/){: .btn .btn--era4} | Gift |  |
-  | 581 |  | [Tool_303002](/Items/con_744/){: .btn .btn--era4} | Gift |  |
-  | 582 |  | [Tool_303003](/Items/con_745/){: .btn .btn--era4} | Gift |  |
-  | 583 | ![Tool_408001](/images/t/i_907046.png) | [Tool_408001](/Items/con_961/){: .btn .btn--era3} | Gift |  |
-  | 584 | ![Tool_408002](/images/t/i_907046.png) | [Tool_408002](/Items/con_962/){: .btn .btn--era4} | Gift |  |
-  | 585 | ![Tool_613002](/images/t/i_907054.png) | [Tool_613002](/Items/con_1070/){: .btn .btn--era5} | Gift |  |
-  | 586 | ![Tool_906041](/images/t/i_907116.png) | [Tool_906041](/Items/con_1364/){: .btn .btn--era4} | Gift | Use it to get Diamond *2580, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
-  | 587 | ![Tool_906043](/images/t/i_907117.png) | [Tool_906043](/Items/con_1366/){: .btn .btn--era4} | Gift | Use it to get Diamond *5180, Elite Unit Pack *1, Spell Scroll *300 and Temple Scroll *10 |
-  | 588 | ![Tool_906045](/images/t/i_907102.png) | [Tool_906045](/Items/con_1368/){: .btn .btn--era5} | Gift | Use it to get Diamond *60 and Premium Artifact Component Pack *1 |
-  | 589 | ![Tool_906046](/images/t/i_907048.png) | [Tool_906046](/Items/con_1369/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Privilege Artifact Component Pack *1 |
-  | 590 | ![Tool_906051](/images/t/i_907102.png) | [Tool_906051](/Items/con_1374/){: .btn .btn--era5} | Gift |  |
-  | 591 | ![Tool_906052](/images/t/i_907048.png) | [Tool_906052](/Items/con_1375/){: .btn .btn--era5} | Gift |  |
-  | 592 | ![Tool_906053](/images/t/i_906047.png) | [Tool_906053](/Items/con_1376/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Holy Emblem Redemption Ticket *30 |
-  | 593 | ![Tool_906055](/images/t/i_906055.png) | [Tool_906055](/Items/con_1378/){: .btn .btn--era5} | Gift |  |
-  | 594 | ![Tool_906056](/images/t/i_906056.png) | [Tool_906056](/Items/con_1379/){: .btn .btn--era5} | Gift |  |
-  | 595 | ![Tool_906057](/images/t/i_907116.png) | [Tool_906057](/Items/con_1380/){: .btn .btn--era4} | Gift |  |
-  | 596 | ![Tool_906058](/images/t/i_907117.png) | [Tool_906058](/Items/con_1381/){: .btn .btn--era4} | Gift |  |
-  | 597 | ![Tool_906059](/images/t/i_907048.png) | [Tool_906059](/Items/con_1382/){: .btn .btn--era5} | Gift |  |
-  | 598 |  | [Tool_906065](/Items/con_2158/){: .btn .btn--era4} | Gift |  |
-  | 599 | ![Tool_907020](/images/t/i_905001.png) | [Tool_907020](/Items/con_1406/){: .btn .btn--era4} | Gift | 2017 CJ exclusive reward containing 2017 CJ exclusive frame x 1. |
-  | 600 | ![Tool_907031](/images/t/i_907031.png) | [Tool_907031](/Items/con_1417/){: .btn .btn--era4} | Gift | Open it to receive great Rewards! |
-  | 601 | ![Tool_907035](/images/t/i_907035.png) | [Tool_907035](/Items/con_1421/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Pit Fiend Token *5, Dendroid Guard Token *5, Cyclops Token *5, Mage Token *5 |
-  | 602 | ![Tool_907036](/images/t/i_907036.png) | [Tool_907036](/Items/con_1422/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Spell Scroll *500, Heaven-Cast Stone *300, Talent Potion *300 |
-  | 603 | ![Tool_907037](/images/t/i_907037.png) | [Tool_907037](/Items/con_1423/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: 1-star Adelaide, Luna, Zydar, Sir Mullich *1 |
-  | 604 | ![Tool_907073](/images/t/i_907064.png) | [Tool_907073](/Items/con_1459/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds |
-  | 605 | ![Tool_907075](/images/t/i_907075.png) | [Tool_907075](/Items/con_1461/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Nian Monster Xeron Skin *1 and Nian Monster Avatar Frame *1 |
-  | 606 | ![Tool_907080](/images/t/i_907080.png) | [Tool_907080](/Items/con_1466/){: .btn .btn--era4} | Gift | Soft and sweet glutinous rice ball, eat it to alleviate some fatigue from the battle. |
-  | 607 | ![Tool_907090](/images/t/i_907065.png) | [Tool_907090](/Items/con_1476/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *300 and Premium Roster Chest *15 |
-  | 608 | ![Tool_907150](/images/t/i_907150.png) | [Tool_907150](/Items/con_1536/){: .btn .btn--era5} | Gift |  |
-  | 609 | ![Tool_907153](/images/t/i_907153.png) | [Tool_907153](/Items/con_1539/){: .btn .btn--era4} | Gift |  |
-  | 610 | ![Tool_907154](/images/t/i_907154.png) | [Tool_907154](/Items/con_1540/){: .btn .btn--era4} | Gift |  |
-  | 611 | ![Tool_907155](/images/t/i_907155.png) | [Tool_907155](/Items/con_1541/){: .btn .btn--era5} | Gift |  |
-  | 612 | ![Tool_907156](/images/t/i_907156.png) | [Tool_907156](/Items/con_1542/){: .btn .btn--era6} | Gift |  |
-  | 613 | ![Tool_907157](/images/t/i_907157.png) | [Tool_907157](/Items/con_1543/){: .btn .btn--era6} | Gift |  |
-  | 614 | ![Tool_907158](/images/t/i_907158.png) | [Tool_907158](/Items/con_1544/){: .btn .btn--era6} | Gift |  |
-  | 615 | ![Tool_907159](/images/t/i_907159.png) | [Tool_907159](/Items/con_1545/){: .btn .btn--era6} | Gift |  |
-  | 616 | ![Tool_907160](/images/t/i_907160.png) | [Tool_907160](/Items/con_1546/){: .btn .btn--era5} | Gift |  |
-  | 617 | ![Tool_907161](/images/t/i_907161.png) | [Tool_907161](/Items/con_1547/){: .btn .btn--era6} | Gift |  |
-  | 618 | ![Tool_907162](/images/t/i_907162.png) | [Tool_907162](/Items/con_1548/){: .btn .btn--era5} | Gift |  |
-  | 619 | ![Tool_907165](/images/t/i_907165.png) | [Tool_907165](/Items/con_1551/){: .btn .btn--era5} | Gift |  |
-  | 620 | ![Tool_907166](/images/t/i_907166.png) | [Tool_907166](/Items/con_1552/){: .btn .btn--era6} | Gift |  |
-  | 621 | ![Tool_907167](/images/t/i_907167.png) | [Tool_907167](/Items/con_1553/){: .btn .btn--era5} | Gift |  |
-  | 622 | ![Tool_907229](/images/t/i_907167.png) | [Tool_907229](/Items/con_1613/){: .btn .btn--era4} | Gift |  |
-  | 623 | ![Tool_907230](/images/t/i_907167.png) | [Tool_907230](/Items/con_1614/){: .btn .btn--era4} | Gift |  |
-  | 624 | ![Tool_907231](/images/t/i_907167.png) | [Tool_907231](/Items/con_1615/){: .btn .btn--era4} | Gift |  |
-  | 625 | ![Tool_907232](/images/t/i_907167.png) | [Tool_907232](/Items/con_1616/){: .btn .btn--era4} | Gift |  |
-  | 626 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/Items/con_1796/){: .btn .btn--era4} | Gift |  |
-  | 627 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
-  | 628 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 629 |  | [Tool_907615](/Items/con_2161/){: .btn .btn--era4} | Gift |  |
-  | 630 |  | [Tool_907616](/Items/con_2162/){: .btn .btn--era4} | Gift |  |
-  | 631 |  | [Tool_907617](/Items/con_2163/){: .btn .btn--era4} | Gift |  |
-  | 632 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/Items/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 633 | ![Tower Faction Selection Chest](/images/t/i_907282.png) | [Tower Faction Selection Chest](/Items/con_1666/){: .btn .btn--era4} | Gift | Use to select 1 Gremlin, Stone Gargoyle, Iron Golem, or Mage token. |
-  | 634 | ![Tower Limited Edition Pack](/images/t/i_994006.png) | [Tower Limited Edition Pack](/Items/con_2110/){: .btn .btn--era5} | Gift | Choose to get either 1 Tower SSR token or 1 Tower SSR Soul Stone. |
-  | 635 | ![Tower Unit Chest](/images/t/i_904006.png) | [Tower Unit Chest](/Items/con_1274/){: .btn .btn--era4} | Gift | Receive a random Tower Faction Unit token. |
-  | 636 | ![Treasure Component Chest](/images/t/i_906060.png) | [Treasure Component Chest](/Items/con_1383/){: .btn .btn--era4} | Gift | An Archmage's Codex component chest. Use it to select 1 of the components of the Archmage's Codex artifact. |
-  | 637 | ![Ultimate Champion Chest](/images/t/i_907027.png) | [Ultimate Champion Chest](/Items/con_1463/){: .btn .btn--era5} | Gift | A treasure chest sealed with the will of ancient beast, only the lords having Behemoth can open it. |
-  | 638 | ![Unit Skill Enhancement Pack](/images/t/i_907541.png) | [Unit Skill Enhancement Pack](/Items/con_1918/){: .btn .btn--era4} | Gift | Grants 100 Blue Crystals (Runestone), 5 Huge EXP Potions, 10 Vampire tokens, and 680 diamonds. |
-  | 639 | ![Unit Talent Enhancement pack](/images/t/i_907542.png) | [Unit Talent Enhancement pack](/Items/con_1919/){: .btn .btn--era4} | Gift | Grants 200 Charging Talent Potions, 10 Vampire tokens, 30,000 coins, 1 Skeleton Crown, and 500 diamonds. |
-  | 640 | ![Unit Training Pack](/images/t/i_907128.png) | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
-  | 641 | ![Universal Half Price Pack](/images/t/i_907194.png) | [Universal Half Price Pack](/Items/con_1753/){: .btn .btn--era4} | Gift | Use it to receive 12,960 diamonds, 80 Universal Tokens  |
-  | 642 | ![Universal Hero Token Special Offer](/images/t/i_907445.png) | [Universal Hero Token Special Offer](/Items/con_1823/){: .btn .btn--era4} | Gift | Grants 10 Universal Hero Tokens and 1,280 diamonds. |
-  | 643 | ![Universal Talent Supply Pack](/images/t/i_907032.png) | [Universal Talent Supply Pack](/Items/con_1418/){: .btn .btn--era4} | Gift | Use it to select 1 from Offensive, Defensive, Charging, Ranged, Caster Talent Potion *100 |
-  | 644 | ![Upgrade Package (Level 15)](/images/t/i_906001.png) | [Upgrade Package (Level 15)](/Items/con_1325/){: .btn .btn--era4} | Gift | Contains all the blue +1 quality items needed for upgrading Firebird troops! |
-  | 645 | ![Upgrade Package (Level 25)](/images/t/i_906001.png) | [Upgrade Package (Level 25)](/Items/con_1326/){: .btn .btn--era4} | Gift | Contains all the purple quality items needed for upgrading Firebird troops! |
-  | 646 | ![V1 Premium Package](/images/t/i_905001.png) | [V1 Premium Package](/Items/con_1297/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 1 players |
-  | 647 | ![V10 Premium Package](/images/t/i_905010.png) | [V10 Premium Package](/Items/con_1306/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 10 and above |
-  | 648 | ![V11 Premium Package](/images/t/i_905011.png) | [V11 Premium Package](/Items/con_1307/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 11 and above |
-  | 649 | ![V12 Premium Package](/images/t/i_905012.png) | [V12 Premium Package](/Items/con_1308/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 12 and above |
-  | 650 | ![V13 Premium Package](/images/t/i_905013.png) | [V13 Premium Package](/Items/con_1309/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 13 and above |
-  | 651 | ![V14 Premium Package](/images/t/i_905014.png) | [V14 Premium Package](/Items/con_1310/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 14 and above |
-  | 652 | ![V15 Premium Package](/images/t/i_905015.png) | [V15 Premium Package](/Items/con_1311/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 15 and above |
-  | 653 | ![V16 Premium Package](/images/t/i_905001.png) | [V16 Premium Package](/Items/con_1312/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 16 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
-  | 654 | ![V17 Premium Package](/images/t/i_905001.png) | [V17 Premium Package](/Items/con_1313/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 17 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
-  | 655 | ![V18 Premium Package](/images/t/i_905001.png) | [V18 Premium Package](/Items/con_1314/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 18 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
-  | 656 | ![V2 Premium Package](/images/t/i_905002.png) | [V2 Premium Package](/Items/con_1298/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 2 players |
-  | 657 | ![V3 Premium Package](/images/t/i_905003.png) | [V3 Premium Package](/Items/con_1299/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 3 players |
-  | 658 | ![V4 Premium Package](/images/t/i_905004.png) | [V4 Premium Package](/Items/con_1300/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 4 players |
-  | 659 | ![V5 Premium Package](/images/t/i_905005.png) | [V5 Premium Package](/Items/con_1301/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 5 and above |
-  | 660 | ![V6 Premium Package](/images/t/i_905006.png) | [V6 Premium Package](/Items/con_1302/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 6 and above |
-  | 661 | ![V7 Premium Package](/images/t/i_905007.png) | [V7 Premium Package](/Items/con_1303/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 7 and above |
-  | 662 | ![V8 Premium Package](/images/t/i_905008.png) | [V8 Premium Package](/Items/con_1304/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 8 and above |
-  | 663 | ![V9 Premium Package](/images/t/i_905009.png) | [V9 Premium Package](/Items/con_1305/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 9 and above |
-  | 664 | ![Valentine's Day Chest A](/images/t/i_907207.png) | [Valentine's Day Chest A](/Items/con_1595/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70 |
-  | 665 | ![Valentine's Day Chest B](/images/t/i_907207.png) | [Valentine's Day Chest B](/Items/con_1600/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 30 gold keys, 2 SR+ unit token chests, and Starlit Rose*70 |
-  | 666 | ![Valentine's Day Gift Box](/images/t/i_907205.png) | [Valentine's Day Gift Box](/Items/con_1593/){: .btn .btn--era4} | Gift | Grants 680 diamonds, 5 gold keys, 1 SR unit token chest and Starlit Rose*10 |
-  | 667 | ![Valentine's Day Pack](/images/t/i_907206.png) | [Valentine's Day Pack](/Items/con_1594/){: .btn .btn--era4} | Gift | Grants 1,280 diamonds, 10 gold keys, 2 SR unit token chests and Starlit Rose*20 |
-  | 668 | ![Valiant Soul Stone Pack](/images/t/i_907539.png) | [Valiant Soul Stone Pack](/Items/con_1916/){: .btn .btn--era4} | Gift | Randomly grants 2 Zealot Soul Stones or 2 Master Archer Soul Stones. |
-  | 669 | ![Vega Ciele](/images/t/i_907430.png) | [Vega Ciele](/Items/con_1809/){: .btn .btn--era4} | Gift | Grants 1,980 Diamonds and 1 Vega Ciele skin. |
-  | 670 | ![Vega Limited-Time Special Offer](/images/t/i_907430.png) | [Vega Limited-Time Special Offer](/Items/con_1808/){: .btn .btn--era4} | Gift | Grants 1,580 Diamonds, 1 Vega Ciele skin, and 10 Ancient Temple Scrolls. |
-  | 671 | ![Vidomina Pack](/images/t/i_907175.png) | [Vidomina Pack](/Items/con_1561/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
-  | 672 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
-  | 673 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_601/){: .btn .btn--era5} | Gift | Open it to receive a Warrior avatar frame! |
-  | 674 | ![Weapons Token Chest](/images/t/i_906044.png) | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
-  | 675 | ![White Material Chest](/images/t/i_304002.png) | [White Material Chest](/Items/con_1254/){: .btn .btn--era1} | Gift | Receive a random white equipment-upgrading item. |
-  | 676 | ![Wrapped Rice Dumpling](/images/t/i_907099.png) | [Wrapped Rice Dumpling](/Items/con_1485/){: .btn .btn--era4} | Gift |  |
+  | 577 |  | [Tidal Guardian Soul Stone Special Offer A](/Items/con_2161/){: .btn .btn--era4} | Gift | Grants 20 Tidal Guardian Soul Stones and 980 diamonds. |
+  | 578 |  | [Tidal Guardian Soul Stone Special Offer B](/Items/con_2162/){: .btn .btn--era4} | Gift | Grants 50 Tidal Guardian Soul Stones and 2,180 diamonds. |
+  | 579 |  | [Tidal Guardian Soul Stone Special Offer C](/Items/con_2163/){: .btn .btn--era4} | Gift | Grants 100 Tidal Guardian Soul Stones and 3,480 diamonds. |
+  | 580 |  | [Titan Component Chest](/Items/con_1343/){: .btn .btn--era5} | Gift | A component chest of the Titan's Thunder. Open it to receive one of the components of the Titan's Thunder. |
+  | 581 | ![Titan's Thunder package](/images/t/i_907003.png) | [Titan's Thunder package](/Items/con_1389/){: .btn .btn--era4} | Gift | Use it to receive one of the following: Titan's Gladius, Sentinel's Shield, Thunder Helmet, or Titan's Cuirass. |
+  | 582 | ![Tool_2991](/images/t/i_907167.png) | [Tool_2991](/Items/con_675/){: .btn .btn--era4} | Gift |  |
+  | 583 |  | [Tool_303001](/Items/con_743/){: .btn .btn--era4} | Gift |  |
+  | 584 |  | [Tool_303002](/Items/con_744/){: .btn .btn--era4} | Gift |  |
+  | 585 |  | [Tool_303003](/Items/con_745/){: .btn .btn--era4} | Gift |  |
+  | 586 | ![Tool_408001](/images/t/i_907046.png) | [Tool_408001](/Items/con_961/){: .btn .btn--era3} | Gift |  |
+  | 587 | ![Tool_613002](/images/t/i_907054.png) | [Tool_613002](/Items/con_1070/){: .btn .btn--era5} | Gift |  |
+  | 588 | ![Tool_906041](/images/t/i_907116.png) | [Tool_906041](/Items/con_1364/){: .btn .btn--era4} | Gift | Use it to get Diamond *2580, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
+  | 589 | ![Tool_906043](/images/t/i_907117.png) | [Tool_906043](/Items/con_1366/){: .btn .btn--era4} | Gift | Use it to get Diamond *5180, Elite Unit Pack *1, Spell Scroll *300 and Temple Scroll *10 |
+  | 590 | ![Tool_906045](/images/t/i_907102.png) | [Tool_906045](/Items/con_1368/){: .btn .btn--era5} | Gift | Use it to get Diamond *60 and Premium Artifact Component Pack *1 |
+  | 591 | ![Tool_906046](/images/t/i_907048.png) | [Tool_906046](/Items/con_1369/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Privilege Artifact Component Pack *1 |
+  | 592 | ![Tool_906051](/images/t/i_907102.png) | [Tool_906051](/Items/con_1374/){: .btn .btn--era5} | Gift |  |
+  | 593 | ![Tool_906052](/images/t/i_907048.png) | [Tool_906052](/Items/con_1375/){: .btn .btn--era5} | Gift |  |
+  | 594 | ![Tool_906053](/images/t/i_906047.png) | [Tool_906053](/Items/con_1376/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Holy Emblem Redemption Ticket *30 |
+  | 595 | ![Tool_906055](/images/t/i_906055.png) | [Tool_906055](/Items/con_1378/){: .btn .btn--era5} | Gift |  |
+  | 596 | ![Tool_906056](/images/t/i_906056.png) | [Tool_906056](/Items/con_1379/){: .btn .btn--era5} | Gift |  |
+  | 597 | ![Tool_906057](/images/t/i_907116.png) | [Tool_906057](/Items/con_1380/){: .btn .btn--era4} | Gift |  |
+  | 598 | ![Tool_906058](/images/t/i_907117.png) | [Tool_906058](/Items/con_1381/){: .btn .btn--era4} | Gift |  |
+  | 599 | ![Tool_906059](/images/t/i_907048.png) | [Tool_906059](/Items/con_1382/){: .btn .btn--era5} | Gift |  |
+  | 600 |  | [Tool_906065](/Items/con_2158/){: .btn .btn--era4} | Gift |  |
+  | 601 | ![Tool_907020](/images/t/i_905001.png) | [Tool_907020](/Items/con_1406/){: .btn .btn--era4} | Gift | 2017 CJ exclusive reward containing 2017 CJ exclusive frame x 1. |
+  | 602 | ![Tool_907031](/images/t/i_907031.png) | [Tool_907031](/Items/con_1417/){: .btn .btn--era4} | Gift | Open it to receive great Rewards! |
+  | 603 | ![Tool_907035](/images/t/i_907035.png) | [Tool_907035](/Items/con_1421/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Pit Fiend Token *5, Dendroid Guard Token *5, Cyclops Token *5, Mage Token *5 |
+  | 604 | ![Tool_907036](/images/t/i_907036.png) | [Tool_907036](/Items/con_1422/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Spell Scroll *500, Heaven-Cast Stone *300, Talent Potion *300 |
+  | 605 | ![Tool_907037](/images/t/i_907037.png) | [Tool_907037](/Items/con_1423/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: 1-star Adelaide, Luna, Zydar, Sir Mullich *1 |
+  | 606 | ![Tool_907073](/images/t/i_907064.png) | [Tool_907073](/Items/con_1459/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds |
+  | 607 | ![Tool_907075](/images/t/i_907075.png) | [Tool_907075](/Items/con_1461/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Nian Monster Xeron Skin *1 and Nian Monster Avatar Frame *1 |
+  | 608 | ![Tool_907080](/images/t/i_907080.png) | [Tool_907080](/Items/con_1466/){: .btn .btn--era4} | Gift | Soft and sweet glutinous rice ball, eat it to alleviate some fatigue from the battle. |
+  | 609 | ![Tool_907090](/images/t/i_907065.png) | [Tool_907090](/Items/con_1476/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *300 and Premium Roster Chest *15 |
+  | 610 | ![Tool_907150](/images/t/i_907150.png) | [Tool_907150](/Items/con_1536/){: .btn .btn--era5} | Gift |  |
+  | 611 | ![Tool_907153](/images/t/i_907153.png) | [Tool_907153](/Items/con_1539/){: .btn .btn--era4} | Gift |  |
+  | 612 | ![Tool_907154](/images/t/i_907154.png) | [Tool_907154](/Items/con_1540/){: .btn .btn--era4} | Gift |  |
+  | 613 | ![Tool_907155](/images/t/i_907155.png) | [Tool_907155](/Items/con_1541/){: .btn .btn--era5} | Gift |  |
+  | 614 | ![Tool_907156](/images/t/i_907156.png) | [Tool_907156](/Items/con_1542/){: .btn .btn--era6} | Gift |  |
+  | 615 | ![Tool_907157](/images/t/i_907157.png) | [Tool_907157](/Items/con_1543/){: .btn .btn--era6} | Gift |  |
+  | 616 | ![Tool_907158](/images/t/i_907158.png) | [Tool_907158](/Items/con_1544/){: .btn .btn--era6} | Gift |  |
+  | 617 | ![Tool_907159](/images/t/i_907159.png) | [Tool_907159](/Items/con_1545/){: .btn .btn--era6} | Gift |  |
+  | 618 | ![Tool_907160](/images/t/i_907160.png) | [Tool_907160](/Items/con_1546/){: .btn .btn--era5} | Gift |  |
+  | 619 | ![Tool_907161](/images/t/i_907161.png) | [Tool_907161](/Items/con_1547/){: .btn .btn--era6} | Gift |  |
+  | 620 | ![Tool_907162](/images/t/i_907162.png) | [Tool_907162](/Items/con_1548/){: .btn .btn--era5} | Gift |  |
+  | 621 | ![Tool_907165](/images/t/i_907165.png) | [Tool_907165](/Items/con_1551/){: .btn .btn--era5} | Gift |  |
+  | 622 | ![Tool_907166](/images/t/i_907166.png) | [Tool_907166](/Items/con_1552/){: .btn .btn--era6} | Gift |  |
+  | 623 | ![Tool_907167](/images/t/i_907167.png) | [Tool_907167](/Items/con_1553/){: .btn .btn--era5} | Gift |  |
+  | 624 | ![Tool_907229](/images/t/i_907167.png) | [Tool_907229](/Items/con_1613/){: .btn .btn--era4} | Gift |  |
+  | 625 | ![Tool_907230](/images/t/i_907167.png) | [Tool_907230](/Items/con_1614/){: .btn .btn--era4} | Gift |  |
+  | 626 | ![Tool_907231](/images/t/i_907167.png) | [Tool_907231](/Items/con_1615/){: .btn .btn--era4} | Gift |  |
+  | 627 | ![Tool_907232](/images/t/i_907167.png) | [Tool_907232](/Items/con_1616/){: .btn .btn--era4} | Gift |  |
+  | 628 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/Items/con_1796/){: .btn .btn--era4} | Gift |  |
+  | 629 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
+  | 630 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
+  | 631 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/Items/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 632 | ![Tower Faction Selection Chest](/images/t/i_907282.png) | [Tower Faction Selection Chest](/Items/con_1666/){: .btn .btn--era4} | Gift | Use to select 1 Gremlin, Stone Gargoyle, Iron Golem, or Mage token. |
+  | 633 | ![Tower Limited Edition Pack](/images/t/i_994006.png) | [Tower Limited Edition Pack](/Items/con_2110/){: .btn .btn--era5} | Gift | Choose to get either 1 Tower SSR token or 1 Tower SSR Soul Stone. |
+  | 634 | ![Tower Unit Chest](/images/t/i_904006.png) | [Tower Unit Chest](/Items/con_1274/){: .btn .btn--era4} | Gift | Receive a random Tower Faction Unit token. |
+  | 635 | ![Treasure Component Chest](/images/t/i_906060.png) | [Treasure Component Chest](/Items/con_1383/){: .btn .btn--era4} | Gift | An Archmage's Codex component chest. Use it to select 1 of the components of the Archmage's Codex artifact. |
+  | 636 | ![Ultimate Champion Chest](/images/t/i_907027.png) | [Ultimate Champion Chest](/Items/con_1463/){: .btn .btn--era5} | Gift | A treasure chest sealed with the will of ancient beast, only the lords having Behemoth can open it. |
+  | 637 | ![Unit Skill Enhancement Pack](/images/t/i_907541.png) | [Unit Skill Enhancement Pack](/Items/con_1918/){: .btn .btn--era4} | Gift | Grants 100 Blue Crystals (Runestone), 5 Huge EXP Potions, 10 Vampire tokens, and 680 diamonds. |
+  | 638 | ![Unit Talent Enhancement pack](/images/t/i_907542.png) | [Unit Talent Enhancement pack](/Items/con_1919/){: .btn .btn--era4} | Gift | Grants 200 Charging Talent Potions, 10 Vampire tokens, 30,000 coins, 1 Skeleton Crown, and 500 diamonds. |
+  | 639 | ![Unit Training Pack](/images/t/i_907128.png) | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
+  | 640 | ![Universal Half Price Pack](/images/t/i_907194.png) | [Universal Half Price Pack](/Items/con_1753/){: .btn .btn--era4} | Gift | Use it to receive 12,960 diamonds, 80 Universal Tokens  |
+  | 641 | ![Universal Hero Token Special Offer](/images/t/i_907445.png) | [Universal Hero Token Special Offer](/Items/con_1823/){: .btn .btn--era4} | Gift | Grants 10 Universal Hero Tokens and 1,280 diamonds. |
+  | 642 | ![Universal Talent Supply Pack](/images/t/i_907032.png) | [Universal Talent Supply Pack](/Items/con_1418/){: .btn .btn--era4} | Gift | Use it to select 1 from Offensive, Defensive, Charging, Ranged, Caster Talent Potion *100 |
+  | 643 | ![Upgrade Package (Level 15)](/images/t/i_906001.png) | [Upgrade Package (Level 15)](/Items/con_1325/){: .btn .btn--era4} | Gift | Contains all the blue +1 quality items needed for upgrading Firebird troops! |
+  | 644 | ![Upgrade Package (Level 25)](/images/t/i_906001.png) | [Upgrade Package (Level 25)](/Items/con_1326/){: .btn .btn--era4} | Gift | Contains all the purple quality items needed for upgrading Firebird troops! |
+  | 645 | ![V1 Premium Package](/images/t/i_905001.png) | [V1 Premium Package](/Items/con_1297/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 1 players |
+  | 646 | ![V10 Premium Package](/images/t/i_905010.png) | [V10 Premium Package](/Items/con_1306/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 10 and above |
+  | 647 | ![V11 Premium Package](/images/t/i_905011.png) | [V11 Premium Package](/Items/con_1307/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 11 and above |
+  | 648 | ![V12 Premium Package](/images/t/i_905012.png) | [V12 Premium Package](/Items/con_1308/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 12 and above |
+  | 649 | ![V13 Premium Package](/images/t/i_905013.png) | [V13 Premium Package](/Items/con_1309/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 13 and above |
+  | 650 | ![V14 Premium Package](/images/t/i_905014.png) | [V14 Premium Package](/Items/con_1310/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 14 and above |
+  | 651 | ![V15 Premium Package](/images/t/i_905015.png) | [V15 Premium Package](/Items/con_1311/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 15 and above |
+  | 652 | ![V16 Premium Package](/images/t/i_905001.png) | [V16 Premium Package](/Items/con_1312/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 16 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
+  | 653 | ![V17 Premium Package](/images/t/i_905001.png) | [V17 Premium Package](/Items/con_1313/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 17 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
+  | 654 | ![V18 Premium Package](/images/t/i_905001.png) | [V18 Premium Package](/Items/con_1314/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 18 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
+  | 655 | ![V2 Premium Package](/images/t/i_905002.png) | [V2 Premium Package](/Items/con_1298/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 2 players |
+  | 656 | ![V3 Premium Package](/images/t/i_905003.png) | [V3 Premium Package](/Items/con_1299/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 3 players |
+  | 657 | ![V4 Premium Package](/images/t/i_905004.png) | [V4 Premium Package](/Items/con_1300/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 4 players |
+  | 658 | ![V5 Premium Package](/images/t/i_905005.png) | [V5 Premium Package](/Items/con_1301/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 5 and above |
+  | 659 | ![V6 Premium Package](/images/t/i_905006.png) | [V6 Premium Package](/Items/con_1302/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 6 and above |
+  | 660 | ![V7 Premium Package](/images/t/i_905007.png) | [V7 Premium Package](/Items/con_1303/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 7 and above |
+  | 661 | ![V8 Premium Package](/images/t/i_905008.png) | [V8 Premium Package](/Items/con_1304/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 8 and above |
+  | 662 | ![V9 Premium Package](/images/t/i_905009.png) | [V9 Premium Package](/Items/con_1305/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 9 and above |
+  | 663 | ![Valentine's Day Chest A](/images/t/i_907207.png) | [Valentine's Day Chest A](/Items/con_1595/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70 |
+  | 664 | ![Valentine's Day Chest B](/images/t/i_907207.png) | [Valentine's Day Chest B](/Items/con_1600/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 30 gold keys, 2 SR+ unit token chests, and Starlit Rose*70 |
+  | 665 | ![Valentine's Day Gift Box](/images/t/i_907205.png) | [Valentine's Day Gift Box](/Items/con_1593/){: .btn .btn--era4} | Gift | Grants 680 diamonds, 5 gold keys, 1 SR unit token chest and Starlit Rose*10 |
+  | 666 | ![Valentine's Day Pack](/images/t/i_907206.png) | [Valentine's Day Pack](/Items/con_1594/){: .btn .btn--era4} | Gift | Grants 1,280 diamonds, 10 gold keys, 2 SR unit token chests and Starlit Rose*20 |
+  | 667 | ![Valiant Soul Stone Pack](/images/t/i_907539.png) | [Valiant Soul Stone Pack](/Items/con_1916/){: .btn .btn--era4} | Gift | Randomly grants 2 Zealot Soul Stones or 2 Master Archer Soul Stones. |
+  | 668 | ![Vega Ciele](/images/t/i_907430.png) | [Vega Ciele](/Items/con_1809/){: .btn .btn--era4} | Gift | Grants 1,980 Diamonds and 1 Vega Ciele skin. |
+  | 669 | ![Vega Limited-Time Special Offer](/images/t/i_907430.png) | [Vega Limited-Time Special Offer](/Items/con_1808/){: .btn .btn--era4} | Gift | Grants 1,580 Diamonds, 1 Vega Ciele skin, and 10 Ancient Temple Scrolls. |
+  | 670 | ![Vidomina Pack](/images/t/i_907175.png) | [Vidomina Pack](/Items/con_1561/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
+  | 671 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
+  | 672 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_601/){: .btn .btn--era5} | Gift | Open it to receive a Warrior avatar frame! |
+  | 673 | ![Weapons Token Chest](/images/t/i_906044.png) | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
+  | 674 | ![White Material Chest](/images/t/i_304002.png) | [White Material Chest](/Items/con_1254/){: .btn .btn--era1} | Gift | Receive a random white equipment-upgrading item. |
+  | 675 | ![Wrapped Rice Dumpling](/images/t/i_907099.png) | [Wrapped Rice Dumpling](/Items/con_1485/){: .btn .btn--era4} | Gift |  |

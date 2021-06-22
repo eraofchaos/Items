@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Unit Awakening.md"
 toc: false
@@ -60,23 +60,23 @@ classes: wide
   | 46 | ![Phoenix Soul Stone](/images/u/tia_fenghuang.jpg) | [Phoenix Soul Stone](/Items/unt_348/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Phoenix Awakening level enhancement |
   | 47 | ![Pit Lord Soul Stone](/images/u/tia_diyulingzhu.jpg) | [Pit Lord Soul Stone](/Items/unt_316/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Pit Lord's Awakening level enhancement |
   | 48 | ![Power Lich Soul Stone](/images/u/tia_wuyao.jpg) | [Power Lich Soul Stone](/Items/unt_301/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Power Lich's Awakening level enhancement |
-  | 49 | ![Saintly Griffin Soul Stone](/images/u/tia_shijiu.jpg) | [Saintly Griffin Soul Stone](/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Royal Griffin's Awakening level enhancement. |
-  | 50 | ![Scorpicore Soul Stone](/images/u/tia_shixie.jpg) | [Scorpicore Soul Stone](/Items/unt_333/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Scorpicore's Awakening level enhancement |
-  | 51 | ![Silent Snow Spirit Soul Stone](/images/u/tia_bingyuansu.jpg) | [Silent Snow Spirit Soul Stone](/Items/unt_345/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Silent Snow Spirit's Awakening level enhancement. |
-  | 52 | ![Silver Pegasus Soul Stone](/images/u/tia_yinyifeima.jpg) | [Silver Pegasus Soul Stone](/Items/unt_292/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Silver Pegasus' Awakening level enhancement |
-  | 53 | ![Skeleton Warrior Soul Stone](/images/u/tia_kulouzhanshi.jpg) | [Skeleton Warrior Soul Stone](/Items/unt_297/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Skeleton Warrior's Awakening level enhancement |
-  | 54 | ![Supreme Paladin Soul Stone](/images/u/tia_shengqishi.jpg) | [Supreme Paladin Soul Stone](/Items/unt_289/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Supreme Paladin's Awakening level enhancement |
-  | 55 | ![Thunder Rage Soul Stone](/images/u/tia_leiyuansu.jpg) | [Thunder Rage Soul Stone](/Items/unt_344/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Thunder Rage's Awakening level enhancement. |
-  | 56 | ![Thunderbird Soul Stone](/images/u/tia_leiniao.jpg) | [Thunderbird Soul Stone](/Items/unt_309/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Thunderbird's Awakening level enhancement |
-  | 57 | ![Tidal Guardian Soul Stone](/images/u/tia_yurenyongshi.jpg) | [Tidal Guardian Soul Stone](/Items/unt_352/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Tidal Guardian's Awakening level enhancement |
-  | 58 | ![Titan Soul Stone](/images/u/tia_taitan.jpg) | [Titan Soul Stone](/Items/unt_326/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Titan's Awakening level enhancement. |
-  | 59 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
-  | 60 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
-  | 61 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/Items/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
-  | 62 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/Items/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
-  | 63 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/Items/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
-  | 64 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/Items/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
-  | 65 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/Items/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
+  | 49 | ![Regnan Deadeye Soul Stone](/images/u/tia_baozang.jpg) | [Regnan Deadeye Soul Stone](/Items/unt_351/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Regnan Deadeye's Awakening level enhancement. |
+  | 50 | ![Saintly Griffin Soul Stone](/images/u/tia_shijiu.jpg) | [Saintly Griffin Soul Stone](/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Royal Griffin's Awakening level enhancement. |
+  | 51 | ![Scorpicore Soul Stone](/images/u/tia_shixie.jpg) | [Scorpicore Soul Stone](/Items/unt_333/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Scorpicore's Awakening level enhancement |
+  | 52 | ![Silent Snow Spirit Soul Stone](/images/u/tia_bingyuansu.jpg) | [Silent Snow Spirit Soul Stone](/Items/unt_345/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Silent Snow Spirit's Awakening level enhancement. |
+  | 53 | ![Silver Pegasus Soul Stone](/images/u/tia_yinyifeima.jpg) | [Silver Pegasus Soul Stone](/Items/unt_292/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Silver Pegasus' Awakening level enhancement |
+  | 54 | ![Skeleton Warrior Soul Stone](/images/u/tia_kulouzhanshi.jpg) | [Skeleton Warrior Soul Stone](/Items/unt_297/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Skeleton Warrior's Awakening level enhancement |
+  | 55 | ![Supreme Paladin Soul Stone](/images/u/tia_shengqishi.jpg) | [Supreme Paladin Soul Stone](/Items/unt_289/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Supreme Paladin's Awakening level enhancement |
+  | 56 | ![Thunder Rage Soul Stone](/images/u/tia_leiyuansu.jpg) | [Thunder Rage Soul Stone](/Items/unt_344/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Thunder Rage's Awakening level enhancement. |
+  | 57 | ![Thunderbird Soul Stone](/images/u/tia_leiniao.jpg) | [Thunderbird Soul Stone](/Items/unt_309/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Thunderbird's Awakening level enhancement |
+  | 58 | ![Tidal Guardian Soul Stone](/images/u/tia_yurenyongshi.jpg) | [Tidal Guardian Soul Stone](/Items/unt_352/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Tidal Guardian's Awakening level enhancement. |
+  | 59 | ![Titan Soul Stone](/images/u/tia_taitan.jpg) | [Titan Soul Stone](/Items/unt_326/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Titan's Awakening level enhancement. |
+  | 60 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
+  | 61 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
+  | 62 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/Items/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
+  | 63 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/Items/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
+  | 64 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/Items/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
+  | 65 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/Items/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
   | 66 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/Items/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 67 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/Items/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
   | 68 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/Items/unt_356/){: .btn .btn--era5} | Awakening Soul |  |

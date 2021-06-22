@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Crystal +1"
 permalink: /mat_73/
 excerpt: "Era of Chaos  Eternal Crystal +1"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "mat_73.md"
 toc: false
@@ -23,8 +23,7 @@ classes: wide
 
 *    Guild Adventure 
 *    [Chapter 21: The Grail -> 21-6](/Main Story/Chapter 21_6/) 
-*    [Chapter 21: The Grail -> 21-12](/Main Story/Chapter 21_12/) 
-*    [Chapter 21: The Grail -> 21-15](/Main Story/Chapter 21_15/) 
+*    Guild Adventure 
 
 ## This item contains:
 

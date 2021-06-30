@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Mercury"
 permalink: /mat_14/
 excerpt: "Era of Chaos  Good Mercury"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "mat_14.md"
 toc: false

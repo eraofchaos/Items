@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Gift.md"
 toc: false
@@ -559,7 +559,7 @@ classes: wide
   | 545 | ![Special rune package](/images/t/i_907025.png) | [Special rune package](/Items/con_1411/){: .btn .btn--era4} | Gift | You will receive 5 purple crystal runestones, 5 blue crystal runestones, and 5 green crystal runestones |
   | 546 | ![Special upgrade offer package](/images/t/i_907002.png) | [Special upgrade offer package](/Items/con_1388/){: .btn .btn--era4} | Gift | Contains 888 Heaven-Cast Stones |
   | 547 |  | [Spectral Flame special offer package](/Items/con_1404/){: .btn .btn--era4} | Gift | Use it to receive 3-star Fire Elemental x 1, Heart of Fire Elemental frame x 1 and Fire Elemental tokens x 20. |
-  | 548 | ![Spell Card](/images/t/i_907532.png) | [Spell Card](/Items/con_1909/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 3 Orange Spell Token Selection Chests and 45 diamonds. |
+  | 548 | ![Spell Card](/images/t/i_907532.png) | [Spell Card](/Items/con_2197/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 3 Orange Spell Token Selection Chests and 45 diamonds. |
   | 549 | ![Spellbinder's Hat Component Chest](/images/t/i_906036.png) | [Spellbinder's Hat Component Chest](/Items/con_1359/){: .btn .btn--era5} | Gift | A component chest of the Spellbinder's Hat. Use it to get 1 of the components of the Spellbinder's Hat's Artifacts |
   | 550 | ![Spellbinder's Hat Offer](/images/t/i_907376.png) | [Spellbinder's Hat Offer](/Items/con_1760/){: .btn .btn--era5} | Gift | Grants 4 Spellbinder's Hat Component Chests and 2,580 diamonds. |
   | 551 | ![Spellbinder's Hat Special Offer](/images/t/i_907377.png) | [Spellbinder's Hat Special Offer](/Items/con_1761/){: .btn .btn--era5} | Gift | Grants 1 Spellbinder's Hat Component Chest and 980 diamonds. |
@@ -647,48 +647,56 @@ classes: wide
   | 633 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/Items/con_1796/){: .btn .btn--era4} | Gift |  |
   | 634 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
   | 635 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 636 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/Items/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 637 | ![Tower Faction Selection Chest](/images/t/i_907282.png) | [Tower Faction Selection Chest](/Items/con_1666/){: .btn .btn--era4} | Gift | Use to select 1 Gremlin, Stone Gargoyle, Iron Golem, or Mage token. |
-  | 638 | ![Tower Limited Edition Pack](/images/t/i_994006.png) | [Tower Limited Edition Pack](/Items/con_2110/){: .btn .btn--era5} | Gift | Choose to get either 1 Tower SSR token or 1 Tower SSR Soul Stone. |
-  | 639 | ![Tower Unit Chest](/images/t/i_904006.png) | [Tower Unit Chest](/Items/con_1274/){: .btn .btn--era4} | Gift | Receive a random Tower Faction Unit token. |
-  | 640 | ![Treasure Component Chest](/images/t/i_906060.png) | [Treasure Component Chest](/Items/con_1383/){: .btn .btn--era4} | Gift | An Archmage's Codex component chest. Use it to select 1 of the components of the Archmage's Codex artifact. |
-  | 641 | ![Ultimate Champion Chest](/images/t/i_907027.png) | [Ultimate Champion Chest](/Items/con_1463/){: .btn .btn--era5} | Gift | A treasure chest sealed with the will of ancient beast, only the lords having Behemoth can open it. |
-  | 642 | ![Unit Skill Enhancement Pack](/images/t/i_907541.png) | [Unit Skill Enhancement Pack](/Items/con_1918/){: .btn .btn--era4} | Gift | Grants 100 Blue Crystals (Runestone), 5 Huge EXP Potions, 10 Vampire tokens, and 680 diamonds. |
-  | 643 | ![Unit Talent Enhancement pack](/images/t/i_907542.png) | [Unit Talent Enhancement pack](/Items/con_1919/){: .btn .btn--era4} | Gift | Grants 200 Charging Talent Potions, 10 Vampire tokens, 30,000 coins, 1 Skeleton Crown, and 500 diamonds. |
-  | 644 | ![Unit Training Pack](/images/t/i_907128.png) | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
-  | 645 | ![Universal Half Price Pack](/images/t/i_907194.png) | [Universal Half Price Pack](/Items/con_1753/){: .btn .btn--era4} | Gift | Use it to receive 12,960 diamonds, 80 Universal Tokens  |
-  | 646 | ![Universal Hero Token Special Offer](/images/t/i_907445.png) | [Universal Hero Token Special Offer](/Items/con_1823/){: .btn .btn--era4} | Gift | Grants 10 Universal Hero Tokens and 1,280 diamonds. |
-  | 647 | ![Universal Talent Supply Pack](/images/t/i_907032.png) | [Universal Talent Supply Pack](/Items/con_1418/){: .btn .btn--era4} | Gift | Use it to select 1 from Offensive, Defensive, Charging, Ranged, Caster Talent Potion *100 |
-  | 648 | ![Upgrade Package (Level 15)](/images/t/i_906001.png) | [Upgrade Package (Level 15)](/Items/con_1325/){: .btn .btn--era4} | Gift | Contains all the blue +1 quality items needed for upgrading Firebird troops! |
-  | 649 | ![Upgrade Package (Level 25)](/images/t/i_906001.png) | [Upgrade Package (Level 25)](/Items/con_1326/){: .btn .btn--era4} | Gift | Contains all the purple quality items needed for upgrading Firebird troops! |
-  | 650 | ![V1 Premium Package](/images/t/i_905001.png) | [V1 Premium Package](/Items/con_1297/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 1 players |
-  | 651 | ![V10 Premium Package](/images/t/i_905010.png) | [V10 Premium Package](/Items/con_1306/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 10 and above |
-  | 652 | ![V11 Premium Package](/images/t/i_905011.png) | [V11 Premium Package](/Items/con_1307/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 11 and above |
-  | 653 | ![V12 Premium Package](/images/t/i_905012.png) | [V12 Premium Package](/Items/con_1308/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 12 and above |
-  | 654 | ![V13 Premium Package](/images/t/i_905013.png) | [V13 Premium Package](/Items/con_1309/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 13 and above |
-  | 655 | ![V14 Premium Package](/images/t/i_905014.png) | [V14 Premium Package](/Items/con_1310/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 14 and above |
-  | 656 | ![V15 Premium Package](/images/t/i_905015.png) | [V15 Premium Package](/Items/con_1311/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 15 and above |
-  | 657 | ![V16 Premium Package](/images/t/i_905001.png) | [V16 Premium Package](/Items/con_1312/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 16 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
-  | 658 | ![V17 Premium Package](/images/t/i_905001.png) | [V17 Premium Package](/Items/con_1313/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 17 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
-  | 659 | ![V18 Premium Package](/images/t/i_905001.png) | [V18 Premium Package](/Items/con_1314/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 18 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
-  | 660 | ![V2 Premium Package](/images/t/i_905002.png) | [V2 Premium Package](/Items/con_1298/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 2 players |
-  | 661 | ![V3 Premium Package](/images/t/i_905003.png) | [V3 Premium Package](/Items/con_1299/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 3 players |
-  | 662 | ![V4 Premium Package](/images/t/i_905004.png) | [V4 Premium Package](/Items/con_1300/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 4 players |
-  | 663 | ![V5 Premium Package](/images/t/i_905005.png) | [V5 Premium Package](/Items/con_1301/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 5 and above |
-  | 664 | ![V6 Premium Package](/images/t/i_905006.png) | [V6 Premium Package](/Items/con_1302/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 6 and above |
-  | 665 | ![V7 Premium Package](/images/t/i_905007.png) | [V7 Premium Package](/Items/con_1303/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 7 and above |
-  | 666 | ![V8 Premium Package](/images/t/i_905008.png) | [V8 Premium Package](/Items/con_1304/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 8 and above |
-  | 667 | ![V9 Premium Package](/images/t/i_905009.png) | [V9 Premium Package](/Items/con_1305/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 9 and above |
-  | 668 | ![Valentine's Day Chest A](/images/t/i_907207.png) | [Valentine's Day Chest A](/Items/con_1595/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70 |
-  | 669 | ![Valentine's Day Chest B](/images/t/i_907207.png) | [Valentine's Day Chest B](/Items/con_1600/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 30 gold keys, 2 SR+ unit token chests, and Starlit Rose*70 |
-  | 670 | ![Valentine's Day Gift Box](/images/t/i_907205.png) | [Valentine's Day Gift Box](/Items/con_1593/){: .btn .btn--era4} | Gift | Grants 680 diamonds, 5 gold keys, 1 SR unit token chest and Starlit Rose*10 |
-  | 671 | ![Valentine's Day Pack](/images/t/i_907206.png) | [Valentine's Day Pack](/Items/con_1594/){: .btn .btn--era4} | Gift | Grants 1,280 diamonds, 10 gold keys, 2 SR unit token chests and Starlit Rose*20 |
-  | 672 | ![Valiant Soul Stone Pack](/images/t/i_907539.png) | [Valiant Soul Stone Pack](/Items/con_1916/){: .btn .btn--era4} | Gift | Randomly grants 2 Zealot Soul Stones or 2 Master Archer Soul Stones. |
-  | 673 | ![Vega Ciele](/images/t/i_907430.png) | [Vega Ciele](/Items/con_1809/){: .btn .btn--era4} | Gift | Grants 1,980 Diamonds and 1 Vega Ciele skin. |
-  | 674 | ![Vega Limited-Time Special Offer](/images/t/i_907430.png) | [Vega Limited-Time Special Offer](/Items/con_1808/){: .btn .btn--era4} | Gift | Grants 1,580 Diamonds, 1 Vega Ciele skin, and 10 Ancient Temple Scrolls. |
-  | 675 | ![Vidomina Pack](/images/t/i_907175.png) | [Vidomina Pack](/Items/con_1561/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
-  | 676 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
-  | 677 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_601/){: .btn .btn--era5} | Gift | Open it to receive a Warrior avatar frame! |
-  | 678 | ![Weapons Token Chest](/images/t/i_906044.png) | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
-  | 679 | ![White Material Chest](/images/t/i_304002.png) | [White Material Chest](/Items/con_1254/){: .btn .btn--era1} | Gift | Receive a random white equipment-upgrading item. |
-  | 680 | ![Wrapped Rice Dumpling](/images/t/i_907099.png) | [Wrapped Rice Dumpling](/Items/con_1485/){: .btn .btn--era4} | Gift |  |
+  | 636 |  | [Tool_907635](/Items/con_2190/){: .btn .btn--era5} | Gift |  |
+  | 637 |  | [Tool_907636](/Items/con_2191/){: .btn .btn--era5} | Gift |  |
+  | 638 |  | [Tool_907637](/Items/con_2192/){: .btn .btn--era5} | Gift |  |
+  | 639 |  | [Tool_907638](/Items/con_2193/){: .btn .btn--era5} | Gift |  |
+  | 640 | ![Tool_907639](/images/t/i_907316.png) | [Tool_907639](/Items/con_2194/){: .btn .btn--era5} | Gift |  |
+  | 641 |  | [Tool_907640](/Items/con_2195/){: .btn .btn--era5} | Gift |  |
+  | 642 |  | [Tool_907641](/Items/con_2196/){: .btn .btn--era5} | Gift |  |
+  | 643 | ![Tool_907643](/images/t/i_7012.png) | [Tool_907643](/Items/con_2198/){: .btn .btn--era5} | Gift |  |
+  | 644 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/Items/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 645 | ![Tower Faction Selection Chest](/images/t/i_907282.png) | [Tower Faction Selection Chest](/Items/con_1666/){: .btn .btn--era4} | Gift | Use to select 1 Gremlin, Stone Gargoyle, Iron Golem, or Mage token. |
+  | 646 | ![Tower Limited Edition Pack](/images/t/i_994006.png) | [Tower Limited Edition Pack](/Items/con_2110/){: .btn .btn--era5} | Gift | Choose to get either 1 Tower SSR token or 1 Tower SSR Soul Stone. |
+  | 647 | ![Tower Unit Chest](/images/t/i_904006.png) | [Tower Unit Chest](/Items/con_1274/){: .btn .btn--era4} | Gift | Receive a random Tower Faction Unit token. |
+  | 648 | ![Treasure Component Chest](/images/t/i_906060.png) | [Treasure Component Chest](/Items/con_1383/){: .btn .btn--era4} | Gift | An Archmage's Codex component chest. Use it to select 1 of the components of the Archmage's Codex artifact. |
+  | 649 | ![Ultimate Champion Chest](/images/t/i_907027.png) | [Ultimate Champion Chest](/Items/con_1463/){: .btn .btn--era5} | Gift | A treasure chest sealed with the will of ancient beast, only the lords having Behemoth can open it. |
+  | 650 | ![Unit Skill Enhancement Pack](/images/t/i_907541.png) | [Unit Skill Enhancement Pack](/Items/con_1918/){: .btn .btn--era4} | Gift | Grants 100 Blue Crystals (Runestone), 5 Huge EXP Potions, 10 Vampire tokens, and 680 diamonds. |
+  | 651 | ![Unit Talent Enhancement pack](/images/t/i_907542.png) | [Unit Talent Enhancement pack](/Items/con_1919/){: .btn .btn--era4} | Gift | Grants 200 Charging Talent Potions, 10 Vampire tokens, 30,000 coins, 1 Skeleton Crown, and 500 diamonds. |
+  | 652 | ![Unit Training Pack](/images/t/i_907128.png) | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
+  | 653 | ![Universal Half Price Pack](/images/t/i_907194.png) | [Universal Half Price Pack](/Items/con_1753/){: .btn .btn--era4} | Gift | Use it to receive 12,960 diamonds, 80 Universal Tokens  |
+  | 654 | ![Universal Hero Token Special Offer](/images/t/i_907445.png) | [Universal Hero Token Special Offer](/Items/con_1823/){: .btn .btn--era4} | Gift | Grants 10 Universal Hero Tokens and 1,280 diamonds. |
+  | 655 | ![Universal Talent Supply Pack](/images/t/i_907032.png) | [Universal Talent Supply Pack](/Items/con_1418/){: .btn .btn--era4} | Gift | Use it to select 1 from Offensive, Defensive, Charging, Ranged, Caster Talent Potion *100 |
+  | 656 | ![Upgrade Package (Level 15)](/images/t/i_906001.png) | [Upgrade Package (Level 15)](/Items/con_1325/){: .btn .btn--era4} | Gift | Contains all the blue +1 quality items needed for upgrading Firebird troops! |
+  | 657 | ![Upgrade Package (Level 25)](/images/t/i_906001.png) | [Upgrade Package (Level 25)](/Items/con_1326/){: .btn .btn--era4} | Gift | Contains all the purple quality items needed for upgrading Firebird troops! |
+  | 658 | ![V1 Premium Package](/images/t/i_905001.png) | [V1 Premium Package](/Items/con_1297/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 1 players |
+  | 659 | ![V10 Premium Package](/images/t/i_905010.png) | [V10 Premium Package](/Items/con_1306/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 10 and above |
+  | 660 | ![V11 Premium Package](/images/t/i_905011.png) | [V11 Premium Package](/Items/con_1307/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 11 and above |
+  | 661 | ![V12 Premium Package](/images/t/i_905012.png) | [V12 Premium Package](/Items/con_1308/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 12 and above |
+  | 662 | ![V13 Premium Package](/images/t/i_905013.png) | [V13 Premium Package](/Items/con_1309/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 13 and above |
+  | 663 | ![V14 Premium Package](/images/t/i_905014.png) | [V14 Premium Package](/Items/con_1310/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 14 and above |
+  | 664 | ![V15 Premium Package](/images/t/i_905015.png) | [V15 Premium Package](/Items/con_1311/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 15 and above |
+  | 665 | ![V16 Premium Package](/images/t/i_905001.png) | [V16 Premium Package](/Items/con_1312/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 16 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
+  | 666 | ![V17 Premium Package](/images/t/i_905001.png) | [V17 Premium Package](/Items/con_1313/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 17 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
+  | 667 | ![V18 Premium Package](/images/t/i_905001.png) | [V18 Premium Package](/Items/con_1314/){: .btn .btn--era4} | Gift | A premium pack for those of VIP 18 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals |
+  | 668 | ![V2 Premium Package](/images/t/i_905002.png) | [V2 Premium Package](/Items/con_1298/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 2 players |
+  | 669 | ![V3 Premium Package](/images/t/i_905003.png) | [V3 Premium Package](/Items/con_1299/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 3 players |
+  | 670 | ![V4 Premium Package](/images/t/i_905004.png) | [V4 Premium Package](/Items/con_1300/){: .btn .btn--era4} | Gift | A premium pack that can only be purchased by VIP 4 players |
+  | 671 | ![V5 Premium Package](/images/t/i_905005.png) | [V5 Premium Package](/Items/con_1301/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 5 and above |
+  | 672 | ![V6 Premium Package](/images/t/i_905006.png) | [V6 Premium Package](/Items/con_1302/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 6 and above |
+  | 673 | ![V7 Premium Package](/images/t/i_905007.png) | [V7 Premium Package](/Items/con_1303/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 7 and above |
+  | 674 | ![V8 Premium Package](/images/t/i_905008.png) | [V8 Premium Package](/Items/con_1304/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 8 and above |
+  | 675 | ![V9 Premium Package](/images/t/i_905009.png) | [V9 Premium Package](/Items/con_1305/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 9 and above |
+  | 676 | ![Valentine's Day Chest A](/images/t/i_907207.png) | [Valentine's Day Chest A](/Items/con_1595/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70 |
+  | 677 | ![Valentine's Day Chest B](/images/t/i_907207.png) | [Valentine's Day Chest B](/Items/con_1600/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 30 gold keys, 2 SR+ unit token chests, and Starlit Rose*70 |
+  | 678 | ![Valentine's Day Gift Box](/images/t/i_907205.png) | [Valentine's Day Gift Box](/Items/con_1593/){: .btn .btn--era4} | Gift | Grants 680 diamonds, 5 gold keys, 1 SR unit token chest and Starlit Rose*10 |
+  | 679 | ![Valentine's Day Pack](/images/t/i_907206.png) | [Valentine's Day Pack](/Items/con_1594/){: .btn .btn--era4} | Gift | Grants 1,280 diamonds, 10 gold keys, 2 SR unit token chests and Starlit Rose*20 |
+  | 680 | ![Valiant Soul Stone Pack](/images/t/i_907539.png) | [Valiant Soul Stone Pack](/Items/con_1916/){: .btn .btn--era4} | Gift | Randomly grants 2 Zealot Soul Stones or 2 Master Archer Soul Stones. |
+  | 681 | ![Vega Ciele](/images/t/i_907430.png) | [Vega Ciele](/Items/con_1809/){: .btn .btn--era4} | Gift | Grants 1,980 Diamonds and 1 Vega Ciele skin. |
+  | 682 | ![Vega Limited-Time Special Offer](/images/t/i_907430.png) | [Vega Limited-Time Special Offer](/Items/con_1808/){: .btn .btn--era4} | Gift | Grants 1,580 Diamonds, 1 Vega Ciele skin, and 10 Ancient Temple Scrolls. |
+  | 683 | ![Vidomina Pack](/images/t/i_907175.png) | [Vidomina Pack](/Items/con_1561/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
+  | 684 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
+  | 685 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_601/){: .btn .btn--era5} | Gift | Open it to receive a Warrior avatar frame! |
+  | 686 | ![Weapons Token Chest](/images/t/i_906044.png) | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
+  | 687 | ![White Material Chest](/images/t/i_304002.png) | [White Material Chest](/Items/con_1254/){: .btn .btn--era1} | Gift | Receive a random white equipment-upgrading item. |
+  | 688 | ![Wrapped Rice Dumpling](/images/t/i_907099.png) | [Wrapped Rice Dumpling](/Items/con_1485/){: .btn .btn--era4} | Gift |  |

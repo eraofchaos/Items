@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Ore +3"
 permalink: /mat_54/
 excerpt: "Era of Chaos  Legendary Ore +3"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "mat_54.md"
 toc: false

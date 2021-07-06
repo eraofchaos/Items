@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Sulfur +2"
 permalink: /mat_29/
 excerpt: "Era of Chaos  Valuable Sulfur +2"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "mat_29.md"
 toc: false

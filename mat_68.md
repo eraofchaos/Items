@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Ore +1"
 permalink: /mat_68/
 excerpt: "Era of Chaos  Eternal Ore +1"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "mat_68.md"
 toc: false

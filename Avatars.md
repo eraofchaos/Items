@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Avatars.md"
 toc: false
@@ -98,7 +98,8 @@ classes: wide
   | 84 |  | [Venom Spawn Avatar](/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | Use to receive the Venom Spawn avatar. |
   | 85 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Avatar frame | Open it to receive a Warrior avatar frame! |
   | 86 | ![White Christmas Avatar Frame Pack](/images/a/avatarFrame_48.png) | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 87 | ![Wings of Triumph: Catherine Avatar](/images/h/h_Catherine9.jpg) | [Wings of Triumph: Catherine Avatar](/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 88 | ![Wings of Triumph: Gelu](/images/h/h_Gelu8.jpg) | [Wings of Triumph: Gelu](/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
-  | 89 | ![Wystan Avatar](/images/h/h_Wystan1.jpg) | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
-  | 90 | ![Yog avatar](/images/h/h_Yog1.jpg) | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |
+  | 87 |  | [White Tiger Avatar](/Items/con_2219/){: .btn .btn--era5} | Hero Avatar | Use to receive the White Tiger avatar. |
+  | 88 | ![Wings of Triumph: Catherine Avatar](/images/h/h_Catherine9.jpg) | [Wings of Triumph: Catherine Avatar](/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
+  | 89 | ![Wings of Triumph: Gelu](/images/h/h_Gelu8.jpg) | [Wings of Triumph: Gelu](/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
+  | 90 | ![Wystan Avatar](/images/h/h_Wystan1.jpg) | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
+  | 91 | ![Yog avatar](/images/h/h_Yog1.jpg) | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Ore +2"
 permalink: /mat_26/
 excerpt: "Era of Chaos  Valuable Ore +2"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "mat_26.md"
 toc: false

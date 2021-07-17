@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Gems +3"
 permalink: /mat_86/
 excerpt: "Era of Chaos  Soul Gems +3"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "mat_86.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Ore +3"
 permalink: /mat_82/
 excerpt: "Era of Chaos  Soul Ore +3"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "mat_82.md"
 toc: false

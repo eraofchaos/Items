@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Mercury +5"
 permalink: /mat_98/
 excerpt: "Era of Chaos  Radiant Mercury +5"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "mat_98.md"
 toc: false

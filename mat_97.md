@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Wood +5"
 permalink: /mat_97/
 excerpt: "Era of Chaos  Radiant Wood +5"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "mat_97.md"
 toc: false

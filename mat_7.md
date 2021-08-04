@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Wood"
 permalink: /mat_7/
 excerpt: "Era of Chaos  Common Wood"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "mat_7.md"
 toc: false

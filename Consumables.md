@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Consumables.md"
 toc: false
@@ -52,7 +52,7 @@ classes: wide
   | 38 |  | [Bloodthirsty Spirit Special Skin](/Items/con_650/){: .btn .btn--era5} | Special Skin | Unlock the skin when Bloodthirsty Spirit is awakened. |
   | 39 |  | [Bloodthirsty Spirit Token](/Items/con_982/){: .btn .btn--era5} | Exclusive piece | A Bloodthirsty Spirit token from an ancient campaign that can be used for awakening Behemoth's exclusive potential, Bloodthirsty Spirit. |
   | 40 |  | [Blue Crystal](/Items/con_716/){: .btn .btn--era3} | Material | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used. |
-  | 41 |  | [Blue dragon](/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Grants the Blue dragon: Hydra skin. |
+  | 41 |  | [Blue dragon](/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Grants the Blue Dragon: Hydra skin. |
   | 42 | ![Born from the Ashes](/images/a/avatarFrame_76.png) | [Born from the Ashes](/Items/con_1022/){: .btn .btn--era5} | Experience Card | Obtained through the Glory Arena |
   | 43 | ![Born from the Ashes: Luna](/images/h/h_Luna3.jpg) | [Born from the Ashes: Luna](/Items/con_1060/){: .btn .btn--era5} | Special Skin | Use to get Luna's Born from the Ashes skin |
   | 44 | ![Bracada Envoy](/images/h/h_Solmyr4.jpg) | [Bracada Envoy](/Items/con_1066/){: .btn .btn--era5} | Special Skin | Use to get a skin: Envoy of Bracada Solmyr |

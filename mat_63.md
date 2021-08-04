@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Mercury"
 permalink: /mat_63/
 excerpt: "Era of Chaos  Mythical Mercury"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "mat_63.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Ore +4"
 permalink: /mat_89/
 excerpt: "Era of Chaos  Star Ore +4"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "mat_89.md"
 toc: false

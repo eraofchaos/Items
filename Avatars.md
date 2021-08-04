@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Avatars.md"
 toc: false
@@ -53,53 +53,54 @@ classes: wide
   | 39 | ![Love of Ice and Fire avatar frame gift pack](/images/t/i_907003.png) | [Love of Ice and Fire avatar frame gift pack](/Items/con_629/){: .btn .btn--era5} | Avatar frame | Open to receive the Love of Ice and Fire portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
   | 40 | ![Luna avatar](/images/h/h_Luna1.jpg) | [Luna avatar](/Items/con_575/){: .btn .btn--era5} | Hero Avatar | Use to receive the Luna avatar |
   | 41 | ![Magic Master Avatar Frame Pack](/images/a/avatarFrame_37.png) | [Magic Master Avatar Frame Pack](/Items/con_633/){: .btn .btn--era5} | Avatar frame | Open it to receive a Magic Master Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 42 | ![Mephala Avatar](/images/h/h_Mephala1.jpg) | [Mephala Avatar](/Items/con_563/){: .btn .btn--era5} | Hero Avatar | Use to receive the Mephala avatar |
-  | 43 | ![Necropolis avatar frame gift pack](/images/t/i_907003.png) | [Necropolis avatar frame gift pack](/Items/con_614/){: .btn .btn--era5} | Avatar frame | Open it to receive a Necropolis avatar frame! |
-  | 44 | ![Phoenix Nirvana avatar frame gift pack](/images/t/i_907003.png) | [Phoenix Nirvana avatar frame gift pack](/Items/con_618/){: .btn .btn--era5} | Avatar frame | Open it to receive a Phoenix Nirvana avatar frame! |
-  | 45 | ![Rampart avatar frame gift pack](/images/t/i_907003.png) | [Rampart avatar frame gift pack](/Items/con_613/){: .btn .btn--era5} | Avatar frame | Open it to receive a Rampart avatar frame! |
-  | 46 | ![Rashka avatar](/images/h/h_Rashka1.jpg) | [Rashka avatar](/Items/con_572/){: .btn .btn--era5} | Hero Avatar | Use to receive the Rashka avatar |
-  | 47 | ![Regnan Seer Avatar](/images/u/ti_haihouyuanhuatouxiang.jpg) | [Regnan Seer Avatar](/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | Use to receive the Regnan Seer avatar. |
-  | 48 | ![Riddle of the Sphinx Avatar Frame Pack](/images/t/i_907003.png) | [Riddle of the Sphinx Avatar Frame Pack](/Items/con_626/){: .btn .btn--era5} | Avatar frame | Open to receive the Riddle of the Sphinx avatar frame. If you have already unlocked the avatar frame, you will receive 30 diamonds instead. |
-  | 49 | ![Ruler of Earth Avatar Frame Pack](/images/a/avatarFrame_40.png) | [Ruler of Earth Avatar Frame Pack](/Items/con_636/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Earth Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 50 | ![Ruler of Flames Avatar Frame Pack](/images/a/avatarFrame_39.png) | [Ruler of Flames Avatar Frame Pack](/Items/con_635/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Flames Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 51 | ![Ruler of Frost Avatar Frame Pack](/images/a/avatarFrame_38.png) | [Ruler of Frost Avatar Frame Pack](/Items/con_634/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Frost Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 52 | ![Ruler of Sky Avatar Frame Pack](/images/a/avatarFrame_41.png) | [Ruler of Sky Avatar Frame Pack](/Items/con_637/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Sky Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 53 | ![Ruler of Void Avatar Frame Pack](/images/a/avatarFrame_42.png) | [Ruler of Void Avatar Frame Pack](/Items/con_638/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Void Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 54 | ![Scout Team avatar](/images/h/h_Gelu5.jpg) | [Scout Team avatar](/Items/con_570/){: .btn .btn--era5} | Hero Avatar | Use to receive Gelu's Scout Team skin and avatar |
-  | 55 | ![Sephinroth Avatar](/images/h/h_Sephinroth1.jpg) | [Sephinroth Avatar](/Items/con_578/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Sephinroth Avatar |
-  | 56 | ![Sharpshooter Female Avatar](/images/u/ti_huanyingsheshounv.jpg) | [Sharpshooter Female Avatar](/Items/con_565/){: .btn .btn--era5} | Hero Avatar | Use to receive the female Sharpshooter avatar |
-  | 57 | ![Sharpshooter Male Avatar](/images/u/ti_huanyingsheshounan.jpg) | [Sharpshooter Male Avatar](/Items/con_564/){: .btn .btn--era5} | Hero Avatar | Use to receive the male Sharpshooter avatar |
-  | 58 | ![Shiva avatar](/images/h/h_Shiwa.jpg) | [Shiva avatar](/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | Use to receive the Shiva avatar |
-  | 59 | ![Social Butterfly Avatar Frame Pack](/images/t/i_907003.png) | [Social Butterfly Avatar Frame Pack](/Items/con_631/){: .btn .btn--era5} | Avatar frame | Open it to receive a Social Butterfly Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 60 | ![Son of the Forest avatar](/images/h/h_Ryland3.jpg) | [Son of the Forest avatar](/Items/con_567/){: .btn .btn--era5} | Hero Avatar | Use to receive Ryland's Son of the Forest skin and avatar |
-  | 61 | ![Spell Master avatar frame gift pack](/images/t/i_907003.png) | [Spell Master avatar frame gift pack](/Items/con_611/){: .btn .btn--era5} | Avatar frame | Open it to receive a Spellmaster avatar frame! |
-  | 62 | ![Stronghold avatar frame gift pack](/images/t/i_907003.png) | [Stronghold avatar frame gift pack](/Items/con_605/){: .btn .btn--era5} | Avatar frame | Open it to receive a Stronghold avatar frame! |
-  | 63 | ![Surging Aura - Mantis Avatar](/images/u/ti_tanglangpifu.jpg) | [Surging Aura - Mantis Avatar](/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
-  | 64 | ![Tactical Commander gift pack](/images/t/i_907003.png) | [Tactical Commander gift pack](/Items/con_621/){: .btn .btn--era5} | Avatar frame | Open to receive the Tactical Commander portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
-  | 65 | ![The Champion Avatar](/images/h/h_Sephinroth2.jpg) | [The Champion Avatar](/Items/con_586/){: .btn .btn--era5} | Hero Avatar | Use to receive The Champion of Sephinroth Avatar |
-  | 66 | ![The Champion avatar](/images/h/h_Mephala7.jpg) | [The Champion avatar](/Items/con_577/){: .btn .btn--era5} | Hero Avatar | Use to receive The Champion of Mephala Avatar |
-  | 67 | ![Tidal Elemental Concept Art Avatar](/images/u/ti_hailing1.jpg) | [Tidal Elemental Concept Art Avatar](/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | Use to receive the Tidal Elemental Special Effects Avatar. |
-  | 68 | ![Tool_10130](/images/h/h_PeterLee.jpg) | [Tool_10130](/Items/con_589/){: .btn .btn--era5} | Hero Avatar | Use to receive the Peter Lee Avatar |
-  | 69 | ![Tool_10131](/images/h/h_Ciele5.jpg) | [Tool_10131](/Items/con_590/){: .btn .btn--era5} | Hero Avatar |  |
-  | 70 | ![Tool_10133](/images/h/h_Roland9.jpg) | [Tool_10133](/Items/con_592/){: .btn .btn--era5} | Hero Avatar |  |
-  | 71 | ![Tool_10135](/images/h/h_Gem5.jpg) | [Tool_10135](/Items/con_594/){: .btn .btn--era5} | Hero Avatar |  |
-  | 72 | ![Tool_10136](/images/h/h_Cassanbel3.jpg) | [Tool_10136](/Items/con_595/){: .btn .btn--era5} | Hero Avatar |  |
-  | 73 | ![Tool_21007](/images/t/i_907003.png) | [Tool_21007](/Items/con_608/){: .btn .btn--era5} | Avatar frame |  |
-  | 74 | ![Tool_21008](/images/t/i_907003.png) | [Tool_21008](/Items/con_609/){: .btn .btn--era5} | Avatar frame |  |
-  | 75 | ![Tool_21015](/images/t/i_907003.png) | [Tool_21015](/Items/con_616/){: .btn .btn--era5} | Avatar frame |  |
-  | 76 | ![Tool_21016](/images/t/i_907003.png) | [Tool_21016](/Items/con_617/){: .btn .btn--era5} | Avatar frame |  |
-  | 77 | ![Tool_21022](/images/t/i_907003.png) | [Tool_21022](/Items/con_623/){: .btn .btn--era5} | Avatar frame |  |
-  | 78 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/Items/con_625/){: .btn .btn--era5} | Avatar frame |  |
-  | 79 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/Items/con_628/){: .btn .btn--era5} | Avatar frame |  |
-  | 80 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/Items/con_632/){: .btn .btn--era5} | Avatar frame |  |
-  | 81 | ![Tower avatar frame gift pack](/images/t/i_907003.png) | [Tower avatar frame gift pack](/Items/con_606/){: .btn .btn--era5} | Avatar frame | Open it to receive a Tower avatar frame! |
-  | 82 | ![Treasure Collector avatar frame gift pack](/images/t/i_907003.png) | [Treasure Collector avatar frame gift pack](/Items/con_620/){: .btn .btn--era5} | Avatar frame | Open it to receive a Treasure Collector avatar frame! |
-  | 83 | ![Troll Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll Avatar](/Items/con_598/){: .btn .btn--era5} | Hero Avatar | Use to get the Troll avatar. |
-  | 84 |  | [Venom Spawn Avatar](/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | Use to receive the Venom Spawn avatar. |
-  | 85 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Avatar frame | Open it to receive a Warrior avatar frame! |
-  | 86 | ![White Christmas Avatar Frame Pack](/images/a/avatarFrame_48.png) | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 87 |  | [White Tiger Avatar](/Items/con_2219/){: .btn .btn--era5} | Hero Avatar | Use to receive the White Tiger avatar. |
-  | 88 | ![Wings of Triumph: Catherine Avatar](/images/h/h_Catherine9.jpg) | [Wings of Triumph: Catherine Avatar](/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 89 | ![Wings of Triumph: Gelu](/images/h/h_Gelu8.jpg) | [Wings of Triumph: Gelu](/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
-  | 90 | ![Wystan Avatar](/images/h/h_Wystan1.jpg) | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
-  | 91 | ![Yog avatar](/images/h/h_Yog1.jpg) | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |
+  | 42 |  | [Mantis Avatar](/Items/con_2237/){: .btn .btn--era5} | Hero Avatar | Use to receive the Mantis avatar. |
+  | 43 | ![Mephala Avatar](/images/h/h_Mephala1.jpg) | [Mephala Avatar](/Items/con_563/){: .btn .btn--era5} | Hero Avatar | Use to receive the Mephala avatar |
+  | 44 | ![Necropolis avatar frame gift pack](/images/t/i_907003.png) | [Necropolis avatar frame gift pack](/Items/con_614/){: .btn .btn--era5} | Avatar frame | Open it to receive a Necropolis avatar frame! |
+  | 45 | ![Phoenix Nirvana avatar frame gift pack](/images/t/i_907003.png) | [Phoenix Nirvana avatar frame gift pack](/Items/con_618/){: .btn .btn--era5} | Avatar frame | Open it to receive a Phoenix Nirvana avatar frame! |
+  | 46 | ![Rampart avatar frame gift pack](/images/t/i_907003.png) | [Rampart avatar frame gift pack](/Items/con_613/){: .btn .btn--era5} | Avatar frame | Open it to receive a Rampart avatar frame! |
+  | 47 | ![Rashka avatar](/images/h/h_Rashka1.jpg) | [Rashka avatar](/Items/con_572/){: .btn .btn--era5} | Hero Avatar | Use to receive the Rashka avatar |
+  | 48 | ![Regnan Seer Avatar](/images/u/ti_haihouyuanhuatouxiang.jpg) | [Regnan Seer Avatar](/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | Use to receive the Regnan Seer avatar. |
+  | 49 | ![Riddle of the Sphinx Avatar Frame Pack](/images/t/i_907003.png) | [Riddle of the Sphinx Avatar Frame Pack](/Items/con_626/){: .btn .btn--era5} | Avatar frame | Open to receive the Riddle of the Sphinx avatar frame. If you have already unlocked the avatar frame, you will receive 30 diamonds instead. |
+  | 50 | ![Ruler of Earth Avatar Frame Pack](/images/a/avatarFrame_40.png) | [Ruler of Earth Avatar Frame Pack](/Items/con_636/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Earth Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 51 | ![Ruler of Flames Avatar Frame Pack](/images/a/avatarFrame_39.png) | [Ruler of Flames Avatar Frame Pack](/Items/con_635/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Flames Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 52 | ![Ruler of Frost Avatar Frame Pack](/images/a/avatarFrame_38.png) | [Ruler of Frost Avatar Frame Pack](/Items/con_634/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Frost Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 53 | ![Ruler of Sky Avatar Frame Pack](/images/a/avatarFrame_41.png) | [Ruler of Sky Avatar Frame Pack](/Items/con_637/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Sky Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 54 | ![Ruler of Void Avatar Frame Pack](/images/a/avatarFrame_42.png) | [Ruler of Void Avatar Frame Pack](/Items/con_638/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Void Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 55 | ![Scout Team avatar](/images/h/h_Gelu5.jpg) | [Scout Team avatar](/Items/con_570/){: .btn .btn--era5} | Hero Avatar | Use to receive Gelu's Scout Team skin and avatar |
+  | 56 | ![Sephinroth Avatar](/images/h/h_Sephinroth1.jpg) | [Sephinroth Avatar](/Items/con_578/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Sephinroth Avatar |
+  | 57 | ![Sharpshooter Female Avatar](/images/u/ti_huanyingsheshounv.jpg) | [Sharpshooter Female Avatar](/Items/con_565/){: .btn .btn--era5} | Hero Avatar | Use to receive the female Sharpshooter avatar |
+  | 58 | ![Sharpshooter Male Avatar](/images/u/ti_huanyingsheshounan.jpg) | [Sharpshooter Male Avatar](/Items/con_564/){: .btn .btn--era5} | Hero Avatar | Use to receive the male Sharpshooter avatar |
+  | 59 | ![Shiva avatar](/images/h/h_Shiwa.jpg) | [Shiva avatar](/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | Use to receive the Shiva avatar |
+  | 60 | ![Social Butterfly Avatar Frame Pack](/images/t/i_907003.png) | [Social Butterfly Avatar Frame Pack](/Items/con_631/){: .btn .btn--era5} | Avatar frame | Open it to receive a Social Butterfly Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 61 | ![Son of the Forest avatar](/images/h/h_Ryland3.jpg) | [Son of the Forest avatar](/Items/con_567/){: .btn .btn--era5} | Hero Avatar | Use to receive Ryland's Son of the Forest skin and avatar |
+  | 62 | ![Spell Master avatar frame gift pack](/images/t/i_907003.png) | [Spell Master avatar frame gift pack](/Items/con_611/){: .btn .btn--era5} | Avatar frame | Open it to receive a Spellmaster avatar frame! |
+  | 63 | ![Stronghold avatar frame gift pack](/images/t/i_907003.png) | [Stronghold avatar frame gift pack](/Items/con_605/){: .btn .btn--era5} | Avatar frame | Open it to receive a Stronghold avatar frame! |
+  | 64 | ![Surging Aura - Mantis Avatar](/images/u/ti_tanglangpifu.jpg) | [Surging Aura - Mantis Avatar](/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 65 | ![Tactical Commander gift pack](/images/t/i_907003.png) | [Tactical Commander gift pack](/Items/con_621/){: .btn .btn--era5} | Avatar frame | Open to receive the Tactical Commander portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 66 | ![The Champion Avatar](/images/h/h_Sephinroth2.jpg) | [The Champion Avatar](/Items/con_586/){: .btn .btn--era5} | Hero Avatar | Use to receive The Champion of Sephinroth Avatar |
+  | 67 | ![The Champion avatar](/images/h/h_Mephala7.jpg) | [The Champion avatar](/Items/con_577/){: .btn .btn--era5} | Hero Avatar | Use to receive The Champion of Mephala Avatar |
+  | 68 | ![Tidal Elemental Concept Art Avatar](/images/u/ti_hailing1.jpg) | [Tidal Elemental Concept Art Avatar](/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | Use to receive the Tidal Elemental Special Effects Avatar. |
+  | 69 | ![Tool_10130](/images/h/h_PeterLee.jpg) | [Tool_10130](/Items/con_589/){: .btn .btn--era5} | Hero Avatar | Use to receive the Peter Lee Avatar |
+  | 70 | ![Tool_10131](/images/h/h_Ciele5.jpg) | [Tool_10131](/Items/con_590/){: .btn .btn--era5} | Hero Avatar |  |
+  | 71 | ![Tool_10133](/images/h/h_Roland9.jpg) | [Tool_10133](/Items/con_592/){: .btn .btn--era5} | Hero Avatar |  |
+  | 72 | ![Tool_10135](/images/h/h_Gem5.jpg) | [Tool_10135](/Items/con_594/){: .btn .btn--era5} | Hero Avatar |  |
+  | 73 | ![Tool_10136](/images/h/h_Cassanbel3.jpg) | [Tool_10136](/Items/con_595/){: .btn .btn--era5} | Hero Avatar |  |
+  | 74 | ![Tool_21007](/images/t/i_907003.png) | [Tool_21007](/Items/con_608/){: .btn .btn--era5} | Avatar frame |  |
+  | 75 | ![Tool_21008](/images/t/i_907003.png) | [Tool_21008](/Items/con_609/){: .btn .btn--era5} | Avatar frame |  |
+  | 76 | ![Tool_21015](/images/t/i_907003.png) | [Tool_21015](/Items/con_616/){: .btn .btn--era5} | Avatar frame |  |
+  | 77 | ![Tool_21016](/images/t/i_907003.png) | [Tool_21016](/Items/con_617/){: .btn .btn--era5} | Avatar frame |  |
+  | 78 | ![Tool_21022](/images/t/i_907003.png) | [Tool_21022](/Items/con_623/){: .btn .btn--era5} | Avatar frame |  |
+  | 79 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/Items/con_625/){: .btn .btn--era5} | Avatar frame |  |
+  | 80 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/Items/con_628/){: .btn .btn--era5} | Avatar frame |  |
+  | 81 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/Items/con_632/){: .btn .btn--era5} | Avatar frame |  |
+  | 82 | ![Tower avatar frame gift pack](/images/t/i_907003.png) | [Tower avatar frame gift pack](/Items/con_606/){: .btn .btn--era5} | Avatar frame | Open it to receive a Tower avatar frame! |
+  | 83 | ![Treasure Collector avatar frame gift pack](/images/t/i_907003.png) | [Treasure Collector avatar frame gift pack](/Items/con_620/){: .btn .btn--era5} | Avatar frame | Open it to receive a Treasure Collector avatar frame! |
+  | 84 | ![Troll Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll Avatar](/Items/con_598/){: .btn .btn--era5} | Hero Avatar | Use to get the Troll avatar. |
+  | 85 |  | [Venom Spawn Avatar](/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | Use to receive the Venom Spawn avatar. |
+  | 86 | ![Warrior avatar frame gift pack](/images/t/i_907003.png) | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Avatar frame | Open it to receive a Warrior avatar frame! |
+  | 87 | ![White Christmas Avatar Frame Pack](/images/a/avatarFrame_48.png) | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 88 |  | [White Tiger Avatar](/Items/con_2219/){: .btn .btn--era5} | Hero Avatar | Use to receive the White Tiger avatar. |
+  | 89 | ![Wings of Triumph: Catherine Avatar](/images/h/h_Catherine9.jpg) | [Wings of Triumph: Catherine Avatar](/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
+  | 90 | ![Wings of Triumph: Gelu](/images/h/h_Gelu8.jpg) | [Wings of Triumph: Gelu](/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
+  | 91 | ![Wystan Avatar](/images/h/h_Wystan1.jpg) | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
+  | 92 | ![Yog avatar](/images/h/h_Yog1.jpg) | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |
